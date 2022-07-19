@@ -1,5 +1,5 @@
 version="1"
-name="Anbennar-NewMap"
+name="Anbennar Novum"
 tags={
 	"Alternative History"
 	"Expansion"
@@ -16,4 +16,4 @@ tags={
 }
 picture="anbennar.jpg"
 supported_version="1.33.*"
-path="C:/Users/Amyzonis/Documents/Paradox Interactive/Europa Universalis IV/mod/anbennar-eu4-fork-home"
+path="C:/Users/Amyzonis/Documents/Paradox Interactive/Europa Universalis IV/mod/Anbennar-Novum"
