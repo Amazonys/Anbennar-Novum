@@ -15,5 +15,5 @@ tags={
 	"Gameplay"
 }
 picture="anbennar.jpg"
-supported_version="1.33.*"
+supported_version="1.35.*"
 path="C:/Users/Amyzonis/Documents/Paradox Interactive/Europa Universalis IV/mod/Anbennar-Novum"
