@@ -1,4 +1,14 @@
 
+#Silvermere Lake 
+lake = { 
+	triangle_strip = { 
+		3047.5 1659 
+		3114 1655
+		3096 1590
+        3069 1631
+	} 
+	height = 22
+} 
 
 #Lake Poopo
 #lake = {
