@@ -1786,7 +1786,7 @@ terrain = {
 	forest_hills		= { type = hills					color = { 	15	 } }
 
 	snow				= { type = mountain 				color = { 	16	 } } # (SPECIAL CASE) Used to identify permanent snow
-	drylands			= { type = drylands					color = {	17	 } }
+	dry_woods			= { type = woods					color = {	17	 } }
 	caves			 	= { type = cavern					color = {	18	 } }
 	
 	tundra				= { type = glacier					color = { 	19	 } }
