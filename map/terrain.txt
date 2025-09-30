@@ -239,7 +239,7 @@ categories =  {
 			1204 1753
 
 			#Forbidden Plains
-			5121 5122
+			5121 5122 5219
 		}
 	}
 	
@@ -398,7 +398,7 @@ categories =  {
 			261 354 4158 4152 4181
 			
 			#Gerudia
-			962 998 6268 6270 979 972
+			962 998 6268 6270 979 972 3186 6267 1000 6265
 			
 			#Dostanor
 			424 431
@@ -727,7 +727,7 @@ categories =  {
 			#Cannor
 			70 78 80 82 83 84 95 124 125 133 338 760 767 764 704 4180 844 823 875 888
 			45 25 54 98 508 506 6273 952 21 89 
-			759 869 423 763
+			759 869 423 763 4182 106 121 129
 			
 			#Aelantir
 			1004 2164 2501 
@@ -760,7 +760,9 @@ categories =  {
 			6047 5924
 
 			#Forbidden Plains
-			5077 5101 5094 5181 5193
+			5077 5101 5094 5181 5193 5258 5242 5244 5223 5229 5195 5191 5265 5250 5232
+			5189 5190 5191 5186 5166 5167 5180 5187 5280 5282 5285 5302 5298 5274 5146 
+			5149 5156 5158 5160 5163 5151 5124 5120 5112 5113 5116 5071 5031
 
 			#Devand
 			2695 2702 2651 2696 2699
@@ -837,7 +839,7 @@ categories =  {
 			6134 5726 6316 5770 6318 5768 5771 6320 6313 5750 5751
 			5760 5765 6308 5723 5722 6309 5761 5759 5758 6317 5767
 			5740 5739 5725 5721 5727 5748 5749
-			5489 5665 5666 5716 5713 3219
+			5489 5665 5666 5716 5713 3219 5743
 			
 			#Horashesh
 			5702 5857 5859 5891 5892 5923 
@@ -892,7 +894,7 @@ categories =  {
 
 		terrain_override = {
 			#Cannor 
-			229 961 966
+			229 961 966 3270
 			
 			#Dragon Coast
 			200 195 191
@@ -969,7 +971,7 @@ categories =  {
 			6750 2555 6755 2558 2556
 
 			#Forbidden Plains
-			3269 5084 5105 5104 3264 5086 5089 5087 5085 5082 3271 3266 5052 3267 5083
+			3269 5084 5105 5104 3264 5086 5089 5087 5085 5082 3271 3266 5052 3267 5083 5053
 			
 			#Aelantir
 			1950 1810 3284 3285 1957 1854 1852 3293 3294 2138 2826
@@ -1821,7 +1823,7 @@ terrain = {
 	mountain			= { type = mountain					color = { 	2	 } }
 	arid_hills			= { type = highlands				color = { 	3	 } }
 
-	plains				= { type = grasslands				color = { 	4	 } }
+	plains				= { type = drylands					color = { 	4	 } }
 	woodland_farms		= { type = woods					color = { 	5	 } }
 	mountain			= { type = mountain					color = { 	6	 } }
 	badlands			= { type = desert					color = { 	7	 } }
@@ -1846,7 +1848,7 @@ terrain = {
 	
 	coastal_desert		= { type = coastal_desert			color = {	22	 } } 
 	ice_hills			= { type = glacier					color = {	23	 } } 
-	coast				= { type = coastline				color = {	24	 } } 
+	steppe				= { type = steppe					color = {	24	 } } 
 	
 	ocean				= { type = ocean					color = { 	32	 } }
 	inland_sea	 		= { type = inland_ocean				color = {	33	 } }
