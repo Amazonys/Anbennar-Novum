@@ -1,5 +1,7 @@
+##Amyzonis double checked the height of all lake strips and ensured they match new heightmap
 
-#Silvermere Lake 
+
+#Silvermere Lake  ## COMPLETE - PROVID = 1326
 lake = { 
 	triangle_strip = { 
 		3047.5 1659 
@@ -10,18 +12,8 @@ lake = {
 	height = 22
 } 
 
-
-#Lake Poopo
-lake = {
-	triangle_strip = { 1753 583 1764 583 1753 572 1766 572 1754 563 1768 563 1758 556 1769 555 }
-	height = 7
-}
-
-#I've commented those out until someone edits the heightmap to go along with it
-
-
 #Ynnic dam reservoir
-#adbrabohvi_dam
+#adbrabohvi_dam ## COMPLETE - PROVID = 7035
 lake = {
 	triangle_strip = {  
 		1182 1419 #3
@@ -31,7 +23,7 @@ lake = {
 	} 
 	height = 28
 }
-#vels_bacar_dam
+#vels_bacar_dam ## COMPLETE - PROVID = 7036
 lake = {
 	triangle_strip = {  
 		1142 1505
@@ -42,7 +34,7 @@ lake = {
 	} 
 	height = 28.2
 }
-#bosancovac_dam
+#bosancovac_dam ## COMPLETE - PROVID = 7037
 lake = {
 	triangle_strip = {  
 		1170 1582
@@ -53,7 +45,7 @@ lake = {
 	} 
 	height = 28
 }
-#mocbarja_dam
+#mocbarja_dam ## COMPLETE - PROVID = 7038
 lake = {
 	triangle_strip = {  
 		1093 1614
@@ -67,8 +59,7 @@ lake = {
 	height = 28
 }
 
-
-#Dartax Lake 
+#Dartax Lake  ## COMPLETE - PROVID = 1891
 lake = {
 	triangle_strip = {  
         3276 1342 
@@ -79,7 +70,7 @@ lake = {
 	height = 34
 } 
 
-#Greeysheep lake 
+#Greeysheep lake ## COMPLETE - PROVID = 3610
 lake = { 
 	triangle_strip = {  
         3282 1381 
@@ -89,8 +80,8 @@ lake = {
 	} 
 	height = 34 
 } 
- 
-#Gelkalis Lake 
+
+#Gelkalis Lake ## COMPLETE - PROVID = 3611
 lake = { 
 	triangle_strip = {  
         3345 1366 
@@ -101,7 +92,7 @@ lake = {
 	height = 34 
 } 
 
-#Naza Lake 
+#Naza Lake ## COMPLETE - PROVID = 1920
 lake = { 
 	triangle_strip = {
         3405 1300 
@@ -112,7 +103,7 @@ lake = {
 	height = 21  
 } 
  
-#Jorkad Lake 
+#Jorkad Lake ## COMPLETE - PROVID = 1921
 lake = { 
 	triangle_strip = {
         3341 1457 
@@ -123,7 +114,7 @@ lake = {
 	height = 37 
 }
  
-#Nashair Rocht 
+#Nashair Rocht ## COMPLETE - PROVID = 1894
 lake = {
 	triangle_strip = {
        3494 1355 
@@ -134,7 +125,7 @@ lake = {
 	height = 24
 }
 
-#Taspasu Lake 
+#Taspasu Lake ## COMPLETE - PROVID = 1884
 lake = { 
 	triangle_strip = { 
 		958 1437 
@@ -142,11 +133,11 @@ lake = {
 		974 1437
         973 1452
 	} 
-	height = 32
+	height = 30
 } 
 
 
-#Big Dva Yemar
+#Big Dva Yemar ## COMPLETE - PROVID = 1665
 lake = { 
 	triangle_strip = { 
 		1127 1384
@@ -157,7 +148,7 @@ lake = {
 	height = 27
 } 
 
-#Little Dva Yemar
+#Little Dva Yemar ## COMPLETE - PROVID = 1665
 lake = { 
 	triangle_strip = { 
 		1138 1373 
@@ -168,7 +159,7 @@ lake = {
 	height = 27
 } 
 
-#Lake Drahn
+#Lake Drahn ## COMPLETE - PROVID = 1886
 lake = { 
 	triangle_strip = { 
 		1338 1766
@@ -179,7 +170,7 @@ lake = {
 	height = 27
 } 
 
-#Mteidhan Lake
+#Mteidhan Lake ## COMPLETE - PROVID = 1663
 lake = {
 	triangle_strip = {  
         1214 105
@@ -191,7 +182,7 @@ lake = {
 } 
 
 
-#Kuresgiju Spring 
+#Kuresgiju Spring ## COMPLETE - PROVID = 1897
 lake = {
 	triangle_strip = {  
         4240 1343 
@@ -202,7 +193,7 @@ lake = {
 	height = 25 
 } 
 
-#Valley Lake
+#Naze Syul ## COMPLETE - PROVID = 1895
 lake = {
 	triangle_strip = {  
         3975 1401
@@ -210,10 +201,10 @@ lake = {
 		3995 1401 
 		3995 1415 
 	} 
-	height = 30
+	height = 37
 } 
 
-#Lake Cocaire
+#Lake Cocaire ## COMPLETE - PROVID = 1660
 lake = { 
 	triangle_strip = { 
 		1345 475
@@ -224,7 +215,7 @@ lake = {
 	height = 27
 }  
 
-#Lake Serpentsoil and Serpentfall
+#Lake Serpentsoil and Serpentfall ## COMPLETE - PROVID = 1912
 lake = { 
 	triangle_strip = { 
 		1448 675
@@ -235,7 +226,7 @@ lake = {
 	height = 20
 }  
 
-#Lake Serpentsoil and Serpentfall
+#Lake Serpentsoil and Serpentfall ## COMPLETE - PROVID = 1913
 lake = { 
 	triangle_strip = { 
 		1952 455
@@ -246,7 +237,7 @@ lake = {
 	height = 27
 }  
 
-#Dakilbege Núk
+#Dakilbege Núk ## COMPLETE - PROVID = 1902
 lake = {
 	triangle_strip = {  
         4401 1400
@@ -257,7 +248,7 @@ lake = {
 	height = 23
 } 
 
-#Lanan
+#Lanan ## COMPLETE - PROVID = 1908
 lake = {
 	triangle_strip = {  
         3376 854
@@ -268,17 +259,18 @@ lake = {
 	height = 24
 } 
 
-lake = {
-	triangle_strip = {  
-        3940 814
-		3940 826
-		3955 814 
-		3955 826 
-	} 
-	height = 21
-} 
+#Senidmot Lake  ## REMOVED - USES NORMAL WATER HEIGHT
+#lake = {
+#	triangle_strip = {  
+#       3940 814
+#		3940 826
+#		3955 814 
+#		3955 826 
+#	} 
+#	height = 21
+#} 
 
-#Lake Kusadza 1
+#Lake Kusadza 1 ## COMPLETE - PROVID = 1656
 lake = {
 	triangle_strip = {  
 		3765 581
@@ -293,7 +285,7 @@ lake = {
 	height = 22
 } 
 
-#Lake Kusadza 2
+#Lake Kusadza 2 ## COMPLETE - PROVID = 1656
 lake = {
 	triangle_strip = {  
 		3774 607
@@ -306,7 +298,7 @@ lake = {
 } 
 
 
-#Lake Kusadza 3
+#Lake Kusadza 3 ## COMPLETE - PROVID = 1656
 lake = {
 	triangle_strip = {  
 		3754 614
@@ -328,7 +320,7 @@ lake = {
 	height = 22
 } 
 
-#Shvartipa
+#Shvartipa ## COMPLETE - PROVID = 1654
 lake = {
 	triangle_strip = {  
 		3708 738

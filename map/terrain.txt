@@ -1666,7 +1666,7 @@ categories =  {
 		terrain_override = {				 
 			#outside the swamp core
 			5497 5615 5616 5617 5620 5662 5663 6732
-
+			6702 6734 6711 3206 
 			#swamp core
 			6705 6714 6716 6720 6721 6731 6733 6742
 		} 
