@@ -1862,10 +1862,17 @@ terrain = {
 ###
 
 tree = {
-	forest				= { terrain = forest 			color = { 	3 4 6 7 19 20 34 35 36	} }
-	woods				= { terrain = woods 			color = { 	2 5 8 18	} }
-	jungle				= { terrain = jungle 			color = { 	13 14 15	} }
-	palms				= { terrain = desert 			color = { 	12	} }
-	savana				= { terrain = grasslands 		color = { 	27 28 29 30	} }
-	shadow_swamp_terrain	= { terrain = shadow_swamp_terrain	color = {	31 32 33	} } #fugue swamp auto assignment
+	forest				= { terrain = forest 							color = { 	3 4 6 7 19 20 34 35 36	} }
+	woods				= { terrain = woods 							color = { 	2 5 8 18				} }
+	jungle				= { terrain = jungle 							color = { 	13 14 15				} }
+	palms				= { terrain = desert 							color = { 	12						} }
+	savana				= { terrain = grasslands 						color = { 	27 28 29 30				} }
+	shadow_swamp		= { terrain = shadow_swamp_terrain				color = {	31 32 33				} } 
+	soleforest			= { terrain = woods								color = {	37 38 39				} } 
+	hinuitree			= { terrain = titanoflora_plains				color = {	40 						} } 
+	hinuimangrove		= { terrain = titanoflora_swamp					color = {	41 42 43				} } 
+	hinuigrass			= { terrain = titanoflora_plains				color = {	44						} } 
+	hinuijungle			= { terrain = titanoflora_jungle				color = {	45 46 47				} } 
+	hinuiforest			= { terrain = titanoflora_forest_terrain		color = {	48 49 50				} } 
+	reef				= { terrain = coastline							color = {	51 52 53				} } 
 }
