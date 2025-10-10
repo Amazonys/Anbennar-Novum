@@ -1,1 +1,3 @@
-set_estate_privilege = estate_monstrous_tribes_caehns_valor
+every_owned_province = {
+	add_devastation = -100
+}
