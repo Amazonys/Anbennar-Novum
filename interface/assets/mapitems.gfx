@@ -326,9 +326,14 @@ objectTypes = {
 	}
 	pdxmesh = {
 		name = "mapobject_30"
-		file = "gfx/models/Mapitems/Trees/tropical_savanna_02.mesh"	
-		scale = 2
+		file = "gfx/models/Mapitems/Trees/mangrove.mesh"	
+		scale = 3
 	}
+	#pdxmesh = {
+	#	name = "mapobject_30"
+	#	file = "gfx/models/Mapitems/Trees/tropical_savanna_02.mesh"	
+	#	scale = 2
+	#}
 	#:kms:
 	pdxmesh = {
 		name = "mapobject_31"
