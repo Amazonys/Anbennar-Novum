@@ -1,0 +1,21 @@
+pdxmesh = {
+	name = "tree_leaf_colored_01_single_a"
+	file = "tree_leaf_colored_01_single_a.mesh"
+	scale = 1
+
+	meshsettings = {
+		name = "tree_leaf_colored_01_single_aShape"
+		index = 0
+		texture_diffuse = "tree_leaf_colored_01_diffuse.dds"
+		texture_normal = "tree_leaf_colored_01_normal.dds"
+		texture_specular = "tree_leaf_colored_01_properties.dds"
+		texture = { file = "tree_leaf_colored_01_tint.dds" index = 3 srgb = yes }
+		shader = "tree"
+		shader_file = "gfx/FX/tree.shader"
+	}
+}
+
+entity = {
+	name = "tree_leaf_colored_01_single_a_entity"
+	pdxmesh = "tree_leaf_colored_01_single_a_mesh"
+}

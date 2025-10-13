@@ -385,24 +385,24 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "mapobject_41"
-		file = "gfx/models/Mapitems/Trees/hinuimangrove_01.mesh"	
-		scale = 3
+		file = "gfx/models/Mapitems/Trees/ironwood.mesh"	
+		scale = 1
 	}
 	pdxmesh = {
 		name = "mapobject_42"
-		file = "gfx/models/Mapitems/Trees/hinuimangrove_02.mesh"
-		scale = 3
+		file = "gfx/models/Mapitems/Trees/ironwood_mix.mesh"
+		scale = 1
 	}
 	pdxmesh = {
 		name = "mapobject_43"
-		file = "gfx/models/Mapitems/Trees/hinuimangrove_03.mesh"	
-		scale = 3
+		file = "gfx/models/Mapitems/Trees/mangrove.mesh"	
+		scale = 1.5
 	}
 	
 	pdxmesh = {
 		name = "mapobject_44"
-		file = "gfx/models/Mapitems/Trees/hinuigrass_01.mesh"	
-		#scale = 1.5
+		file = "gfx/models/Mapitems/Trees/hinuigrass.mesh"	
+		scale = 1.5
 	}
 	
 	pdxmesh = {
@@ -439,23 +439,57 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "mapobject_51"
-		file = "gfx/models/Mapitems/Trees/reef_01.mesh"
+		file = "gfx/models/Mapitems/Trees/reef_pink.mesh"
 		#scale = 1.5
 	}
 	pdxmesh = {
 		name = "mapobject_52"
-		file = "gfx/models/Mapitems/Trees/reef_02.mesh"
+		file = "gfx/models/Mapitems/Trees/reef_red.mesh"
 		#scale = 1.5
 	}
 	pdxmesh = {
 		name = "mapobject_53"
-		file = "gfx/models/Mapitems/Trees/reef_03.mesh"
+		file = "gfx/models/Mapitems/Trees/reef_blue.mesh"
+		#scale = 1.5
+	}
+	pdxmesh = {
+		name = "mapobject_54"
+		file = "gfx/models/Mapitems/Trees/reef_black.mesh"
+		#scale = 1.5
+	}
+	pdxmesh = {
+		name = "mapobject_55"
+		file = "gfx/models/Mapitems/Trees/reef_white.mesh"
+		#scale = 1.5
+	}
+	pdxmesh = {
+		name = "mapobject_56"
+		file = "gfx/models/Mapitems/Trees/reef_grey.mesh"
+		#scale = 1.5
+	}
+	pdxmesh = {
+		name = "mapobject_57"
+		file = "gfx/models/Mapitems/Trees/reef_brass.mesh"
+		#scale = 1.5
+	}
+	pdxmesh = {
+		name = "mapobject_58"
+		file = "gfx/models/Mapitems/Trees/reef_purple.mesh"
+		#scale = 1.5
+	}
+	pdxmesh = {
+		name = "mapobject_59"
+		file = "gfx/models/Mapitems/Trees/reef_crimson.mesh"
+		#scale = 1.5
+	}
+	pdxmesh = {
+		name = "mapobject_60"
+		file = "gfx/models/Mapitems/Trees/reef_teal.mesh"
 		#scale = 1.5
 	}
 	
-	
 	pdxmesh = {
-		name = "mapobject_54"
+		name = "mapobject_61"
 		file = "gfx/models/Mapitems/Trees/Temporary/reeds_01_tall_grass.mesh"	
 		scale = 1.5
 	}
