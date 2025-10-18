@@ -367,11 +367,11 @@ objectTypes = {
 		file = "gfx/models/Mapitems/Trees/savanna_03.mesh"	
 	}
 	
-	#REPLACE Forest
+	#Fynbos Forest
 	pdxmesh = {
 		name = "mapobject_30"
-		file = "gfx/models/Mapitems/Trees/mangrove.mesh"	
-		scale = 3
+		file = "gfx/models/Mapitems/Trees/fynbos.mesh"	
+		scale = 0.75
 	}
 	#pdxmesh = {
 	#	name = "mapobject_30"
@@ -439,7 +439,7 @@ objectTypes = {
 	}
 	pdxmesh = {
 		name = "mapobject_43"
-		file = "gfx/models/Mapitems/Trees/mangrove.mesh"	
+		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
 		scale = 1.5
 	}
 	
@@ -489,12 +489,12 @@ objectTypes = {
 	}
 	pdxmesh = {
 		name = "mapobject_52"
-		file = "gfx/models/Mapitems/Trees/mangrove_02.mesh"	
+		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
 		scale = 3
 	}
 	pdxmesh = {
 		name = "mapobject_53"
-		file = "gfx/models/Mapitems/Trees/mangrove_03.mesh"	
+		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
 		scale = 3
 	}
 	
@@ -511,7 +511,7 @@ objectTypes = {
 	}
 	pdxmesh = {
 		name = "mapobject_56"
-		file = "gfx/models/Mapitems/Trees/redwood_03.mesh"	
+		file = "gfx/models/Mapitems/Trees/redwood_04.mesh"	
 		scale = 1.25
 	}
 	
