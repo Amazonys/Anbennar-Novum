@@ -600,11 +600,11 @@ objectTypes = {
 		scale = 1.75
 	}
 	
-	pdxmesh = {
-		name = "mapobject_72"
-		file = "gfx/models/Mapitems/Trees/Temporary/reeds_01_tall_grass.mesh"	
-		scale = 1.5
-	}
+	#pdxmesh = {
+	#	name = "mapobject_72"
+	#	file = "gfx/models/Mapitems/Trees/Temporary/reeds_01_tall_grass.mesh"	
+	#	scale = 1.5
+	#}
 	
 	pdxmesh = {
 		name = "combat_result_background_mesh"
