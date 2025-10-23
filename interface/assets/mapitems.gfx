@@ -323,34 +323,34 @@ objectTypes = {
 	pdxmesh = {
 		name = "mapobject_21"
 		file = "gfx/models/Mapitems/Trees/cactus_01.mesh"	
-		scale = 2
+		scale = 1.5
 	}
 	pdxmesh = {
 		name = "mapobject_22"
 		file = "gfx/models/Mapitems/Trees/cactus_02.mesh"	
-		scale = 2
+		scale = 1.5
 	}
 	pdxmesh = {
 		name = "mapobject_23"
 		file = "gfx/models/Mapitems/Trees/cactus_03.mesh"	
-		scale = 2
+		scale = 1.5
 	}
 	
 	#Eucalyptus Forest
 	pdxmesh = {
 		name = "mapobject_24"
 		file = "gfx/models/Mapitems/Trees/eucalyptus_01.mesh"	
-		scale = 1.25
+		#scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_25"
 		file = "gfx/models/Mapitems/Trees/eucalyptus_02.mesh"	
-		scale = 1.25
+		#scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_26"
 		file = "gfx/models/Mapitems/Trees/eucalyptus_03.mesh"	
-		scale = 1.25
+		#scale = 1.25
 	}
 	
 	#Savannah Forest
@@ -511,7 +511,7 @@ objectTypes = {
 	}
 	pdxmesh = {
 		name = "mapobject_56"
-		file = "gfx/models/Mapitems/Trees/redwood_04.mesh"	
+		file = "gfx/models/Mapitems/Trees/redwood_03.mesh"	
 		scale = 1.25
 	}
 	
@@ -566,8 +566,42 @@ objectTypes = {
 		scale = 1.25
 	}
 	
+	#Baobab
 	pdxmesh = {
 		name = "mapobject_66"
+		file = "gfx/models/Mapitems/Trees/baobab_01.mesh"	
+		#scale = 1.25
+	}
+	pdxmesh = {
+		name = "mapobject_67"
+		file = "gfx/models/Mapitems/Trees/baobab_02.mesh"	
+		#scale = 1.25
+	}
+	pdxmesh = {
+		name = "mapobject_68"
+		file = "gfx/models/Mapitems/Trees/baobab_03.mesh"	
+		#scale = 1.25
+	}
+	
+	#Cypress
+	pdxmesh = {
+		name = "mapobject_69"
+		file = "gfx/models/Mapitems/Trees/cypress_01.mesh"	
+		scale = 1.75
+	}
+	pdxmesh = {
+		name = "mapobject_70"
+		file = "gfx/models/Mapitems/Trees/cypress_01.mesh"	
+		scale = 1.75
+	}
+	pdxmesh = {
+		name = "mapobject_71"
+		file = "gfx/models/Mapitems/Trees/cypress_01.mesh"	
+		scale = 1.75
+	}
+	
+	pdxmesh = {
+		name = "mapobject_72"
 		file = "gfx/models/Mapitems/Trees/Temporary/reeds_01_tall_grass.mesh"	
 		scale = 1.5
 	}
