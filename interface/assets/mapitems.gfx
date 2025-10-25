@@ -436,19 +436,27 @@ objectTypes = {
 	
 	pdxmesh = {
 		name = "mapobject_41"
-		file = "gfx/models/Mapitems/Trees/ironwood.mesh"	
+		file = "gfx/models/Mapitems/Trees/ironwood_01.mesh"	
 		scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_42"
-		file = "gfx/models/Mapitems/Trees/ironwood_mix.mesh"
+		file = "gfx/models/Mapitems/Trees/ironwood_02.mesh"
 		scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_43"
-		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
-		scale = 1.5
+		file = "gfx/models/Mapitems/Trees/ironwood_03.mesh"	
+		scale = 1.25
 	}
+	
+	#pdxmesh = {
+	#	name = "mapobject_43"
+	#	file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
+	#	scale = 1.5
+	#}
+	
+	
 	
 	pdxmesh = {
 		name = "mapobject_44"
