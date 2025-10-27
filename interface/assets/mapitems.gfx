@@ -449,21 +449,13 @@ objectTypes = {
 		file = "gfx/models/Mapitems/Trees/ironwood_03.mesh"	
 		scale = 1.25
 	}
-	
-	#pdxmesh = {
-	#	name = "mapobject_43"
-	#	file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
-	#	scale = 1.5
-	#}
-	
-	
-	
+	#Hinuigrass
 	pdxmesh = {
 		name = "mapobject_44"
 		file = "gfx/models/Mapitems/Trees/hinuigrass.mesh"	
 		scale = 1.5
-	}
-	
+	}	
+	#Hinuijungle
 	pdxmesh = {
 		name = "mapobject_45"
 		file = "gfx/models/Mapitems/Trees/tropical_01.mesh"
@@ -479,7 +471,7 @@ objectTypes = {
 		file = "gfx/models/Mapitems/Trees/tropical_03.mesh"
 		scale = 2
 	}
-	
+	#Hinuiforest
 	pdxmesh = {
 		name = "mapobject_48"
 		file = "gfx/models/Mapitems/Trees/leafs_01.mesh"
@@ -494,8 +486,7 @@ objectTypes = {
 		name = "mapobject_50"
 		file = "gfx/models/Mapitems/Trees/leafs_03.mesh"
 		scale = 1.5
-	}
-	
+	}	
 	#Hinuimangrove
 	pdxmesh = {
 		name = "mapobject_51"
@@ -511,8 +502,7 @@ objectTypes = {
 		name = "mapobject_53"
 		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
 		#scale = 3
-	}
-	
+	}	
 	#Redwood
 	pdxmesh = {
 		name = "mapobject_54"
@@ -528,8 +518,7 @@ objectTypes = {
 		name = "mapobject_56"
 		file = "gfx/models/Mapitems/Trees/redwood_03.mesh"	
 		scale = 1.25
-	}
-	
+	}	
 	#Bluewood
 	pdxmesh = {
 		name = "mapobject_57"
@@ -545,8 +534,7 @@ objectTypes = {
 		name = "mapobject_59"
 		file = "gfx/models/Mapitems/Trees/bluewood_03.mesh"	
 		scale = 1.25
-	}
-	
+	}	
 	#Yellowood
 	pdxmesh = {
 		name = "mapobject_60"
@@ -562,8 +550,7 @@ objectTypes = {
 		name = "mapobject_62"
 		file = "gfx/models/Mapitems/Trees/yellowood_03.mesh"	
 		scale = 1.25
-	}
-	
+	}	
 	#Greenwood
 	pdxmesh = {
 		name = "mapobject_63"
@@ -579,8 +566,7 @@ objectTypes = {
 		name = "mapobject_65"
 		file = "gfx/models/Mapitems/Trees/greenwood_03.mesh"	
 		scale = 1.25
-	}
-	
+	}	
 	#Baobab
 	pdxmesh = {
 		name = "mapobject_66"
@@ -596,8 +582,7 @@ objectTypes = {
 		name = "mapobject_68"
 		file = "gfx/models/Mapitems/Trees/baobab_03.mesh"	
 		#scale = 1.25
-	}
-	
+	}	
 	#Cypress
 	pdxmesh = {
 		name = "mapobject_69"
@@ -614,7 +599,51 @@ objectTypes = {
 		file = "gfx/models/Mapitems/Trees/cypress_01.mesh"	
 		scale = 1.75
 	}
-	
+	#Mangrove
+	pdxmesh = {
+		name = "mapobject_72"
+		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
+		scale = 1.25
+	}
+	pdxmesh = {
+		name = "mapobject_73"
+		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
+		scale = 1.25
+	}
+	pdxmesh = {
+		name = "mapobject_74"
+		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
+		scale = 1.25
+	}
+	#Bloodgroves
+	pdxmesh = {
+		name = "mapobject_75"
+		file = "gfx/models/Mapitems/Trees/bloodgroves_01.mesh"	
+		scale = 1.25
+	}
+	pdxmesh = {
+		name = "mapobject_76"
+		file = "gfx/models/Mapitems/Trees/bloodgroves_02.mesh"	
+		scale = 1.25
+	}
+	pdxmesh = {
+		name = "mapobject_77"
+		file = "gfx/models/Mapitems/Trees/bloodgroves_03.mesh"	
+		scale = 1.25
+	}
+	#Cherry Blossom
+	pdxmesh = {
+		name = "mapobject_78"
+		file = "gfx/models/Mapitems/Trees/cherryblossom_01.mesh"	
+	}
+	pdxmesh = {
+		name = "mapobject_79"
+		file = "gfx/models/Mapitems/Trees/cherryblossom_02.mesh"
+	}
+	pdxmesh = {
+		name = "mapobject_80"
+		file = "gfx/models/Mapitems/Trees/cherryblossom_03.mesh"	
+	}
 	#pdxmesh = {
 	#	name = "mapobject_72"
 	#	file = "gfx/models/Mapitems/Trees/Temporary/reeds_01_tall_grass.mesh"	
