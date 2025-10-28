@@ -114,27 +114,27 @@ trade_winds = "trade_winds.txt"
 canal_definition = {
 	name = "panama_canal"
 	x = 1490
-	y = 948
+	y = 1640
 }
 canal_definition = {
 	name = "suez_canal"
 	x = 3275
-	y = 1118
+	y = 1810
 }
 canal_definition = {
 	name = "kiel_canal"
 	x = 2925
-	y = 1587
+	y = 2279
 }
 canal_definition = { #this sets the coordinates for where the great_merfolk_canal_river map file is inserted (starting from its bottom left corner)
 	name = "great_merfolk_canal"
 	x = 3784
-	y = 316
+	y = 1008
 }
 canal_definition = {
 	name = "budanphre_canal"
 	x = 4139
-	y = 1044
+	y = 1736
 }
 
 
