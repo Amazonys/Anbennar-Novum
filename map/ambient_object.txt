@@ -1,0 +1,662 @@
+type={       
+type="eagle" use_animation=yes scale=0.300000 time_duration=300.000000       
+object={ name="Eagle_Noruin" hidden_on_start=no position={ 1293 2.35 2076 } rotation={ 0.000 80 0 } }
+object={ name="Eagle_Sarda" hidden_on_start=no position={ 1171 4.3 2119 } rotation={ 0.000 45 0 } }
+object={ name="Eagle_Khenak_Range" hidden_on_start=no position={ 2920 15.35 2108 } rotation={ 0.000 45 0 } }
+object={ name="Eagle_Jiantsiang" hidden_on_start=no position={ 4503 5.6 2096 } rotation={ 0.000 45 0 } }
+object={ name="Eagle_Alenic_Expanse" hidden_on_start=no position={ 2927 12.4 2441 } rotation={ 0.000 45 0 } }
+object={ name="Eagle_Trialmount" hidden_on_start=no position={ 3139 6.35 2372 } rotation={ 0.000 45 0 } }
+object={ name="Eagle_Moduk" hidden_on_start=no position={ 4495 5.35 2346 } rotation={ 0.000 0 0 } } }
+type={       
+type="windmill" use_animation=yes scale=0.300000 time_duration=300.000000       
+object={ name="Windmill_wesdam" hidden_on_start=no position={ 2771 0.1 2222 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_dockbridge" hidden_on_start=no position={ 2784 0.1 2200 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_menibor" hidden_on_start=no position={ 2861 0.1 2160 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_eargate" hidden_on_start=no position={ 2844 0.1 2224 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_thomsbridge" hidden_on_start=no position={ 2745 0.1 2282 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_greenberry" hidden_on_start=no position={ 2708 0.1 2279 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_littlebrook" hidden_on_start=no position={ 2726 0.1 2295 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_coppertown" hidden_on_start=no position={ 2754 0.1 2295 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_newcobble" hidden_on_start=no position={ 2727 0.1 2312 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_orston" hidden_on_start=no position={ 2764 0.1 2270 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_millsbay_1" hidden_on_start=no position={ 2879 0.1 2236 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_millsbay_2" hidden_on_start=no position={ 2877 0.1 2230 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_sweetcastle" hidden_on_start=no position={ 2881 0.1 2253 } rotation={ 0.000 -15 0 } }
+object={ name="Windmill_notesbridge" hidden_on_start=no position={ 2894 0.1 2238 } rotation={ 0.000 -15 0 } } }
+type={       
+type="seagulls" use_animation=yes scale=0.300000 time_duration=300.000000       
+object={ name="Seagulls_Not_Antarctica" hidden_on_start=no position={ 3124 11 754 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_kedwali_gulf" hidden_on_start=no position={ 3795 11 1180 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_sandspite_gulf" hidden_on_start=no position={ 2775 11 1660 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_West_Dao_Nako" hidden_on_start=no position={ 2860 11 1423 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Fahvanosy_North" hidden_on_start=no position={ 3177.19 11 1424.23 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Fahvanosy" hidden_on_start=no position={ 3240 11 1326 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Karassk" hidden_on_start=no position={ 3435 11 1255 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Baashagala" hidden_on_start=no position={ 4072 11 1476 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Tiger_Coast" hidden_on_start=no position={ 3921 11 1659 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_sw_insyaa" hidden_on_start=no position={ 4638 11 1236 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_SE_Insyaa" hidden_on_start=no position={ 4825 11 1210 } rotation={ 0.000 165 0 } }
+object={ name="Seagulls_Bay_of_Lupulan" hidden_on_start=no position={ 4321 11 1579 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_South_RingletIsles" hidden_on_start=no position={ 4344 11 1343 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Insyaa_west" hidden_on_start=no position={ 4692 11 1388 } rotation={ 0.000 105 0 } }
+object={ name="Seagulls_North_RingletIsles" hidden_on_start=no position={ 4305 11 1464 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Binhrung_Coast" hidden_on_start=no position={ 4398 11 1689 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Trollsbay" hidden_on_start=no position={ 1284 10.8 1968 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_North_Trollsbay" hidden_on_start=no position={ 1240 11 2039 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_arakeprun" hidden_on_start=no position={ 461 11 2184 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Damesear" hidden_on_start=no position={ 2811 11 2214 } rotation={ 0.000 80 0 } }
+object={ name="Seagulls_Jewelpoint_Bay" hidden_on_start=no position={ 2763 11 2124 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Akasik" hidden_on_start=no position={ 2790 11 2039 } rotation={ 0.000 95 0 } }
+object={ name="Seagulls_Gulf_of_Gon" hidden_on_start=no position={ 4206 11 1720 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Sea_of_Follies" hidden_on_start=no position={ 3014 11 2105 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Bay_of_Brasan" hidden_on_start=no position={ 3266 11 1901 } rotation={ 0.000 105 0 } }
+object={ name="Seagull_Tianlou_Bay" hidden_on_start=no position={ 4560 11 1982 } rotation={ 0.000 0 0 } }
+object={ name="Seagulls_Insyaa_6205" hidden_on_start=no position={ 5110 11 1985 } rotation={ 0.000 75 0 } }
+object={ name="Seagulls_Insyaa_1417" hidden_on_start=no position={ 4740 11 1824 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Insyaa_6166" hidden_on_start=no position={ 4752 11 1932 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Insyaa_6190" hidden_on_start=no position={ 4971 11 1922 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Oddansbay" hidden_on_start=no position={ 2576 11 2402 } rotation={ 0.000 -15 0 } }
+object={ name="Seagull_Deranne" hidden_on_start=no position={ 2612 10.9 2245 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_giants_grave_sea" hidden_on_start=no position={ 2987 11 2528 } rotation={ 0.000 45 0 } }
+object={ name="Seagulls_Dameshead" hidden_on_start=no position={ 2838 11 2255 } rotation={ 0.000 -45 0 } } }
+type={       
+type="black_bear" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Black_bear_talmsild" hidden_on_start=no position={ 1265 0.4 2290 } rotation={ 0.000 -60 0 } }
+object={ name="Black_bear_Nizargan" hidden_on_start=no position={ 1152 0.4 2375 } rotation={ 0.000 -60 0 } }
+object={ name="Black_bear_Gothar_Urthid" hidden_on_start=no position={ 1023 0.4 2380 } rotation={ 0.000 -60 0 } }
+object={ name="Black_Bear_Gemradtiog" hidden_on_start=no position={ 835 0.1 2398 } rotation={ 0.000 45 0 } }
+object={ name="Black_bear_hrelabpn" hidden_on_start=no position={ 949 0.15 2442 } rotation={ 0.000 -60 0 } }
+object={ name="Black_bear_pohmpredah" hidden_on_start=no position={ 1051 0.4 2421 } rotation={ 0.000 -60 0 } }
+object={ name="Black_bear_iforiail" hidden_on_start=no position={ 1131 0.1 2536 } rotation={ 0.000 -60 0 } }
+object={ name="Black_bear_imatt" hidden_on_start=no position={ 690 0.1 2319 } rotation={ 0.000 45 0 } }
+object={ name="Black_bear_Geiriiqasuq" hidden_on_start=no position={ 1629 0.4 2450 } rotation={ 0.000 -60 0 } }
+object={ name="Black_Bear_Qelnardir" hidden_on_start=no position={ 1572 0.1 2526 } rotation={ 0.000 -60 0 } } }
+type={       
+type="polar_bear" use_animation=yes scale=0.300000 time_duration=300.000000       
+object={ name="Polar_bear_fadhionan" hidden_on_start=no position={ 1116 0.1 2703 } rotation={ 0.000 -60 0 } }
+object={ name="Polar_bear_mijaeyjr" hidden_on_start=no position={ 1565 0.1 2686 } rotation={ 0.000 30 0 } }
+object={ name="Polar_bear_obrtrol" hidden_on_start=no position={ 2667 0.1 2710 } rotation={ 0.000 30 0 } } }
+type={       
+type="brown_bear" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Brown_bear_Arankid" hidden_on_start=no position={ 528 0.25 2211 } rotation={ 0.000 -60 0 } }
+object={ name="Brown_bear_daidh" hidden_on_start=no position={ 632 0.25 2416 } rotation={ 0.000 -60 0 } }
+object={ name="Brown_bear_malcadh" hidden_on_start=no position={ 506 0.1 2283 } rotation={ 0.000 60 0 } }
+object={ name="Brown_bear_ogre_valley" hidden_on_start=no position={ 3431 0.25 2456 } rotation={ 0.000 -60 0 } }
+object={ name="Brown_bear_Serpentsvale" hidden_on_start=no position={ 3338 0.25 2379 } rotation={ 0.000 -60 0 } }
+object={ name="Brown_bear_venjob" hidden_on_start=no position={ 3284 0.25 2405 } rotation={ 0.000 50 0 } }
+object={ name="Brown_bear_lake_logr" hidden_on_start=no position={ 3350 0.4 2452 } rotation={ 0.000 -60 0 } }
+object={ name="Brown_bear_logrs_end" hidden_on_start=no position={ 3199 0.1 2495 } rotation={ 0.000 60 0 } }
+object={ name="Brown_bear_grenholt" hidden_on_start=no position={ 3107 0.1 2573 } rotation={ 0.000 -60 0 } }
+object={ name="Brown_bear_wudhal" hidden_on_start=no position={ 3024 0.25 2439 } rotation={ 0.000 -60 0 } }
+object={ name="Brown_bear_Moduk" hidden_on_start=no position={ 4551 0.1 2464 } rotation={ 0.000 60 0 } } }
+type={       
+type="panda_bear" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Panda_bear_Lamhoeng" hidden_on_start=no position={ 4377 0.1 1896 } rotation={ 0.000 -60 0 } }
+object={ name="Panda_bear_Sziaolin" hidden_on_start=no position={ 4342 0.1 1934 } rotation={ 0.000 -60 0 } }
+object={ name="Panda_bear_Azjakuma" hidden_on_start=no position={ 4254 0.2 2002 } rotation={ 0.000 -60 0 } }
+object={ name="Panda_bear_Dinman" hidden_on_start=no position={ 4450 0.1 1879 } rotation={ 0.000 -40 0 } }
+object={ name="Panda_bear_Tiunleng" hidden_on_start=no position={ 4355 0 1873 } rotation={ 0.000 50 0 } } }
+type={       
+type="kangaroo" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Kangaroo_Insyaa_5" hidden_on_start=no position={ 4834 0.1 1087 } rotation={ 0.000 -100 0 } }
+object={ name="Kangaroo_Insyaa_1" hidden_on_start=no position={ 4847.61 0.1 1240.94 } rotation={ 0.000 -60 0 } }
+object={ name="Kangaroo_Insyaa_2" hidden_on_start=no position={ 4946 0.1 1254 } rotation={ 0.000 80 0 } }
+object={ name="Kangaroo_Insyaa_3" hidden_on_start=no position={ 4652 0.1 1217 } rotation={ 0.000 -40 0 } }
+object={ name="Kangaroo_Insyaa_4" hidden_on_start=no position={ 4900 0.1 1314 } rotation={ 0.000 37 0 } }
+object={ name="Kangaroo_Insyaa_6" hidden_on_start=no position={ 4994 0.1 1331 } rotation={ 0.000 25 0 } } }
+type={       
+type="crocodile" use_animation=yes scale=0.250000 time_duration=300.000000       
+object={ name="Crocodile_Zulnurgoro" hidden_on_start=no position={ 1797 0.2 1363 } rotation={ 0.000 -75 0 } }
+object={ name="Crocodile_Ixoth" hidden_on_start=no position={ 1614 0.1 1358 } rotation={ 0.000 30 0 } }
+object={ name="Crocodile_Zulzulchi" hidden_on_start=no position={ 1675 0.2 1324 } rotation={ 0.000 -75 0 } }
+object={ name="Crocodile_Nurcu" hidden_on_start=no position={ 1808 0.1 1382 } rotation={ 0.000 40 0 } }
+object={ name="Crocodile_SilverCoast_West" hidden_on_start=no position={ 2885 0.1 1441 } rotation={ 0.000 50 0 } }
+object={ name="Crocodile_ZeewizGnollakaz" hidden_on_start=no position={ 3369 0.1 1591 } rotation={ 0.000 -60 0 } }
+object={ name="Crocodile_Tijarikhet_NFah" hidden_on_start=no position={ 3338 0.3 1382 } rotation={ 0.000 50 0 } }
+object={ name="Crocodile_Silvercoast_centre" hidden_on_start=no position={ 2968 0.1 1468 } rotation={ 0.000 50 0 } }
+object={ name="Crocodile_SilverCoast_East" hidden_on_start=no position={ 3086 0.1 1477 } rotation={ 0.000 50 0 } }
+object={ name="Crocodile_GorrostGnollakaz" hidden_on_start=no position={ 3278 0.1 1664 } rotation={ 0.000 -60 0 } }
+object={ name="Crocodile_lizard_swamp_1" hidden_on_start=no position={ 3631 0.1 1343 } rotation={ 0.000 50 0 } }
+object={ name="Crocodile_lizard_swamp_2" hidden_on_start=no position={ 3673 0.1 1311 } rotation={ 0.000 -60 0 } }
+object={ name="Crocodile_Arwuntira" hidden_on_start=no position={ 1385 0.1 2060 } rotation={ 0.000 -45 0 } }
+object={ name="Crocodile_Botwrumbo" hidden_on_start=no position={ 1341 0.1 2059 } rotation={ 0.000 30 0 } }
+object={ name="Crocodile_Ynnsmouth" hidden_on_start=no position={ 1228 0.1 2073 } rotation={ 0.000 30 0 } }
+object={ name="Crocodile_Wiokchok" hidden_on_start=no position={ 1178 0.25 1997 } rotation={ 0.000 -60 0 } }
+object={ name="Crocodile_Brasan" hidden_on_start=no position={ 3274 0.1 1930 } rotation={ 0.000 -50 0 } }
+object={ name="Crocodile_kheterata" hidden_on_start=no position={ 3083 0.1 1909 } rotation={ 0.000 -60 0 } }
+object={ name="Crocodile_Mocvare" hidden_on_start=no position={ 1086 0.1 2304 } rotation={ 0.000 -60 0 } } }
+type={       
+type="zebra" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Zebra_Eragazan" hidden_on_start=no position={ 3728 0.2 1604 } rotation={ 0.000 60 0 } }
+object={ name="Zebra_Koggraffa" hidden_on_start=no position={ 3617 0.1 1646 } rotation={ 0.000 -40 0 } }
+object={ name="Zebra_Vahkaz" hidden_on_start=no position={ 3764 0.1 1638 } rotation={ 0.000 -60 0 } }
+object={ name="Zebra_tijarikhet" hidden_on_start=no position={ 3528 0.1 1612 } rotation={ 0.000 -60 0 } }
+object={ name="Zebra_Gazraak" hidden_on_start=no position={ 3816 0.15 1647 } rotation={ 0.000 -60 0 } }
+object={ name="zebra_matamot" hidden_on_start=no position={ 3855 0.4 1553 } rotation={ 0.000 60 0 } }
+object={ name="zebra_melakmengi" hidden_on_start=no position={ 3963 0.15 1558 } rotation={ 0.000 -60 0 } } }
+type={       
+type="seal" use_animation=yes scale=0.250000 time_duration=300.000000       
+object={ name="Seal_not_antarctica" hidden_on_start=no position={ 2995 0.1 752 } rotation={ 0.000 40 0 } }
+object={ name="Seal_Thilore" hidden_on_start=no position={ 1221 0.1 2560 } rotation={ 0.000 -130 0 } }
+object={ name="Seal_Aerin" hidden_on_start=no position={ 992 0.1 2591 } rotation={ 0.000 -130 0 } }
+object={ name="Seal_Gemradtiog" hidden_on_start=no position={ 826 0.1 2425 } rotation={ 0.000 -60 0 } }
+object={ name="Seal_Western_Broken_Sea" hidden_on_start=no position={ 845 0.1 2576 } rotation={ 0.000 -30 0 } }
+object={ name="Seal_Arberith_Wastes" hidden_on_start=no position={ 912 0.1 2687 } rotation={ 0.000 -50 0 } }
+object={ name="Seal_fadhionan" hidden_on_start=no position={ 1107 0.1 2618 } rotation={ 0.000 40 0 } }
+object={ name="Seal_Torriaran" hidden_on_start=no position={ 796 0.1 2691 } rotation={ 0.000 50 0 } }
+object={ name="Seal_Ujoriaq" hidden_on_start=no position={ 1674 0.1 2498 } rotation={ 0.000 50 0 } }
+object={ name="Seal_reavers_coast" hidden_on_start=no position={ 2738 0.1 2605 } rotation={ 0.000 -40 0 } }
+object={ name="Seal_Thurrsbol" hidden_on_start=no position={ 2718 0.1 2691 } rotation={ 0.000 50 0 } }
+object={ name="Seal_dragon_coast" hidden_on_start=no position={ 2670.5 0.1 2356.5 } rotation={ 0.000 50 0 } }
+object={ name="Seal_greatmarches_inland" hidden_on_start=no position={ 2884 0.1 2520 } rotation={ 0.000 -75 0 } }
+object={ name="Seal_envermarck_inland" hidden_on_start=no position={ 2886 0.1 2567 } rotation={ 0.000 -20 0 } } }
+type={       
+type="whale" use_animation=yes scale=0.800000 time_duration=300.000000       
+object={ name="Whale_Copachdomann" hidden_on_start=no position={ 260 0.1 1968 } rotation={ 0.000 45 0 } }
+object={ name="Whale_Fiorgam" hidden_on_start=no position={ 1763 0.1 2213 } rotation={ 0.000 0 0 } }
+object={ name="Whale_Anesgara_Current" hidden_on_start=no position={ 300 0.1 2616 } rotation={ 0.000 5 0 } }
+object={ name="Whale_Torrifadhai" hidden_on_start=no position={ 651 0.1 2632 } rotation={ 0.000 180 0 } }
+object={ name="Whale_Fogharabh" hidden_on_start=no position={ 444 0.1 2415 } rotation={ 0.000 115 0 } }
+object={ name="Whale_Dragon_Coast" hidden_on_start=no position={ 2560 0.1 2322 } rotation={ 0.000 155 0 } }
+object={ name="Whale_Glaciers_Reach" hidden_on_start=no position={ 2650 0.1 2634.5 } rotation={ 0.000 0 0 } }
+object={ name="Whale_Western_Sea" hidden_on_start=no position={ 2271 0.1 2569 } rotation={ 0.000 0 0 } }
+object={ name="Whale_WesternExpanseSea" hidden_on_start=no position={ 2059 0.1 2368 } rotation={ 0.000 0 0 } }
+object={ name="Whale_Anb1424_1425" hidden_on_start=no position={ 5121 0.1 2302 } rotation={ 0.000 0 0 } }
+object={ name="Whale_Anb1427" hidden_on_start=no position={ 5413 0.1 2240 } rotation={ 0.000 0 0 } } }
+type={       
+type="vulture" use_animation=yes scale=0.300000 time_duration=300.000000       
+object={ name="Vulture_Ardimya" hidden_on_start=no position={ 4223 10 952 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Baashagala" hidden_on_start=no position={ 3972 4.05 1395 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Koggraffa" hidden_on_start=no position={ 3629 10.4 1675 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_gnollakaz" hidden_on_start=no position={ 3339 8.75 1713 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_West-Salahad" hidden_on_start=no position={ 2999 8.8 1659 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Horashesh" hidden_on_start=no position={ 3201 5.4 1592 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Zerat" hidden_on_start=no position={ 3489 8.1 1441 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Haraf" hidden_on_start=no position={ 909 9.85 1903 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Egasach" hidden_on_start=no position={ 765 9.85 2094 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_South_Epednar" hidden_on_start=no position={ 1065.54 9.3 1925.3 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Middle_Epednar" hidden_on_start=no position={ 1031 9.55 2099 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Akasik" hidden_on_start=no position={ 2845 9.6 1989 } rotation={ 0.000 90 0 } }
+object={ name="Vulture_Khamarutar" hidden_on_start=no position={ 4159 5.05 2064 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Amussus_Grave" hidden_on_start=no position={ 3380 9.7 1831 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_harra_oasis" hidden_on_start=no position={ 3514 8.85 1804 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Salahad_Bay" hidden_on_start=no position={ 3743 9 1809 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Ebbusubtu" hidden_on_start=no position={ 3804 6.55 1862 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_kheterata" hidden_on_start=no position={ 3148 10.4 1855 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_West_Salahad" hidden_on_start=no position={ 2944 9.85 1880 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Verkal_Gulan" hidden_on_start=no position={ 3693 10.1 2036 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Parraj" hidden_on_start=no position={ 4085 5.05 1963 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Tuiinond" hidden_on_start=no position={ 4373 5.15 2061 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_North_Epednar" hidden_on_start=no position={ 950 2.35 2230 } rotation={ 0.000 45 0 } }
+object={ name="Vulture_Sarinaigh" hidden_on_start=no position={ 4099 3.65 2328 } rotation={ 0.000 45 0 } } }
+type={       
+type="guanaco" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Guanaco_Dry_Coast_1" hidden_on_start=no position={ 2006 0.1 1091 } rotation={ 0.000 100 0 } }
+object={ name="Guanaco_Dry_Coast_2" hidden_on_start=no position={ 2054 0.4 1089 } rotation={ 0.000 20 0 } }
+object={ name="Guanaco_Orothaua" hidden_on_start=no position={ 1754 0 1036 } rotation={ 0.000 100 0 } }
+object={ name="Guanano_veyii_sikarha" hidden_on_start=no position={ 1574 0.1 1156 } rotation={ 0.000 0 0 } }
+object={ name="Guanaco_Mawida" hidden_on_start=no position={ 1276 0.55 1367 } rotation={ 0.000 0 0 } } }
+type={       
+type="elephant_AO" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Elephant_AO_rasukes_gnollakaz" hidden_on_start=no position={ 3201 0.2 1677 } rotation={ 0.000 60 0 } }
+object={ name="Elephant_AO_Gebahiri_1" hidden_on_start=no position={ 4002 0.2 1631 } rotation={ 0.000 4 0 } }
+object={ name="Elephant_AO_Gebahiri_2" hidden_on_start=no position={ 4016 0.1 1634 } rotation={ 0.000 -60 0 } }
+object={ name="Elephant_AO_Gebahiri_3" hidden_on_start=no position={ 4039 0.1 1592 } rotation={ 0.000 -60 0 } }
+object={ name="Elephant_AO_Kogzalla" hidden_on_start=no position={ 3718 0.2 1702 } rotation={ 0.000 -60 0 } }
+object={ name="Elephant_AO_Koggraffa" hidden_on_start=no position={ 3662 0.2 1705 } rotation={ 0.000 -60 0 } }
+object={ name="Elephant_AO_zeewix" hidden_on_start=no position={ 3370 0.2 1640 } rotation={ 0.000 -60 0 } }
+object={ name="Elephant_AO_abusmu_kheterata" hidden_on_start=no position={ 3103 0.1 1869 } rotation={ 0.000 -60 0 } } }
+type={       
+type="elephant_indian" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Elephant_indian_Hijoadan" hidden_on_start=no position={ 4364 0.2 1648 } rotation={ 0.000 60 0 } }
+object={ name="Elephant_indian_sadavin" hidden_on_start=no position={ 4160 0.6 1883 } rotation={ 0.000 80 0 } }
+object={ name="elephant_indian_Araghuunlkhan" hidden_on_start=no position={ 4100 0.1 1918 } rotation={ 0.000 280 0 } }
+object={ name="Elephant_indian_palsadar" hidden_on_start=no position={ 4119 0.6 1866 } rotation={ 0.000 -60 0 } }
+object={ name="Elephant_indian_dheelasul" hidden_on_start=no position={ 4108 0.2 1911 } rotation={ 0.000 40 0 } }
+object={ name="Elephant_indian_Saddathar" hidden_on_start=no position={ 3982 0.2 1857 } rotation={ 0.000 60 0 } }
+object={ name="Elephant_indian_Djunadesh" hidden_on_start=no position={ 3959 0.2 1878 } rotation={ 0.000 300 0 } }
+object={ name="Elaphant_indian_Biyijinda" hidden_on_start=no position={ 4066 0.2 1808 } rotation={ 0.000 60 0 } }
+object={ name="Elephant_indian_Bulwar" hidden_on_start=no position={ 3225 0.2 2095 } rotation={ 0.000 -60 0 } }
+object={ name="Elephant_indian_Sabiansuga" hidden_on_start=no position={ 4289 0.2 1727 } rotation={ 0.000 60 0 } }
+object={ name="Elephant_indian_Taibo" hidden_on_start=no position={ 4241 0.2 1753 } rotation={ 0.000 60 0 } } }
+type={       
+type="pyramids" use_animation=no scale=0.600000 time_duration=300.000000       
+object={ name="pyramids_of_kheterat" hidden_on_start=no position={ 3136 0.1 1820 } rotation={ 0.000 0 0 } } }
+type={       
+type="camel" use_animation=yes scale=0.250000 time_duration=300.000000       
+object={ name="camel_harra_oasis" hidden_on_start=no position={ 3549 0.1 1832 } rotation={ 0.000 45 0 } }
+object={ name="camel_sayshesh_kheterata" hidden_on_start=no position={ 3110 0.1 1834 } rotation={ 0.000 45 0 } }
+object={ name="camel_brrtekuh" hidden_on_start=no position={ 2986 0.1 1943 } rotation={ 0.000 45 0 } } }
+type={       
+type="bison" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="Bison_Epednar_1" hidden_on_start=no position={ 1078 0.1 2218 } rotation={ 0.000 -30 0 } }
+object={ name="Bison_Epednar_2" hidden_on_start=no position={ 1079 0.1 2125 } rotation={ 0.000 67 0 } }
+object={ name="Bison_Veykoda_1" hidden_on_start=no position={ 1235 0 2218 } rotation={ 0.000 45 0 } }
+object={ name="Bison_Veykoda_2" hidden_on_start=no position={ 1243 0 2220 } rotation={ 0.000 -30 0 } }
+object={ name="Bison_Veykoda_3" hidden_on_start=no position={ 1244 0 2216 } rotation={ 0.000 -60 0 } }
+object={ name="Bison_Veykoda_4" hidden_on_start=no position={ 1232 0 2133 } rotation={ 0.000 45 0 } }
+object={ name="Bison_Epednar_3" hidden_on_start=no position={ 1034 0.1 2286 } rotation={ 0.000 -30 0 } }
+object={ name="Bison_Epednar_4" hidden_on_start=no position={ 1031 0.1 2298 } rotation={ 0.000 -60 0 } }
+object={ name="Bison_Epednar_5" hidden_on_start=no position={ 928 0 2299 } rotation={ 0.000 370 0 } }
+object={ name="Bison_Veykoda_5" hidden_on_start=no position={ 1263 0 2261 } rotation={ 0.000 -30 0 } }
+object={ name="Bison_Prejvib" hidden_on_start=no position={ 1003 0.1 2373 } rotation={ 0.000 -30 0 } } }
+type={       
+type="moose" use_animation=yes scale=0.280000 time_duration=300.000000       
+object={ name="Moose_Ledtrevo" hidden_on_start=no position={ 1071 0.1 2467 } rotation={ 0.000 45 0 } }
+object={ name="Moose_Tagedram" hidden_on_start=no position={ 1358 0.1 2454 } rotation={ 0.000 45 0 } }
+object={ name="Moose_Akewredar" hidden_on_start=no position={ 1331 0.1 2546 } rotation={ 0.000 45 0 } }
+object={ name="Moose_Radhcalrm" hidden_on_start=no position={ 1555 0.1 2454 } rotation={ 0.000 45 0 } }
+object={ name="Moose-Qurmutmaami" hidden_on_start=no position={ 1591 0.1 2491 } rotation={ 0.000 45 0 } }
+object={ name="Moose_serpentsvale" hidden_on_start=no position={ 3315 0.1 2364 } rotation={ 0.000 45 0 } }
+object={ name="Moose_yyl_moitsa" hidden_on_start=no position={ 3492 0.1 2499 } rotation={ 0.000 45 0 } }
+object={ name="Moose_ebonham" hidden_on_start=no position={ 3075 0.1 2423 } rotation={ 0.000 64 0 } } }
+type={       
+type="Wild_antler_horse_entity" use_animation=yes scale=0.300000 time_duration=300.000000       
+object={ name="WildAntlerHorse" hidden_on_start=no position={ 1149 0.1 2275 } rotation={ 0.000 45 0 } } }
+type={       
+type="giraffe" use_animation=yes scale=0.300000 time_duration=300.000000       
+object={ name="giraffe_gnollakaz" hidden_on_start=no position={ 3408 0.1 1638 } rotation={ 0.000 -60 0 } }
+object={ name="giraffe_gazraak" hidden_on_start=no position={ 3653 0.1 1644 } rotation={ 0.000 80 0 } }
+object={ name="giraffe_ntilen_sogo" hidden_on_start=no position={ 3138 0.1 1647 } rotation={ 0.000 80 0 } } }
+type={       
+type="desert_skeleton_mesh" use_animation=no scale=0.400000 time_duration=300.000000       
+object={ name="DS_Desert_of_the_Haraf" hidden_on_start=no position={ 823 0.1 2013 } rotation={ 0.000 50 0 } }
+object={ name="DS_Epednar_Middle" hidden_on_start=no position={ 1078 0.1 2061 } rotation={ 0.000 50 0 } }
+object={ name="DS_Epednar_North" hidden_on_start=no position={ 1012 0.1 2128 } rotation={ 0.000 50 0 } }
+object={ name="DS_Amussus_Grave_North" hidden_on_start=no position={ 3457 0.1 1910 } rotation={ 0.000 50 0 } }
+object={ name="DS_Amussus_Grave_South" hidden_on_start=no position={ 3436 0.1 1850 } rotation={ 0.000 50 0 } }
+object={ name="DS_East_Salahad" hidden_on_start=no position={ 3792 0.1 1926 } rotation={ 0.000 50 0 } }
+object={ name="DS_West_Salahad" hidden_on_start=no position={ 2985 0.1 1820 } rotation={ 0.000 50 0 } }
+object={ name="DS_forbidden_plains" hidden_on_start=no position={ 3802 0.1 2104 } rotation={ 0.000 120 0 } } }
+type={       
+type="frame_top_left_entity" use_animation=noalways_visible=yes       
+object={ name="frame_top_left_entity01" hidden_on_start=no position={ 412 18 2738 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity01" hidden_on_start=no position={ -100 18 2738 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity03" hidden_on_start=no position={ 1436 18 2738 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity05" hidden_on_start=no position={ 3484 18 2738 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity99" hidden_on_start=no position={ 5532 18 2738 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity07" hidden_on_start=no position={ 4508 18 2738 } rotation={ 0.000 0 0 } } }
+type={       
+type="frame_top_right_entity" use_animation=noalways_visible=yes       
+object={ name="frame_top_left_entity02" hidden_on_start=no position={ 924 18 2738 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity06" hidden_on_start=no position={ 3996 18 2738 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 5020 18 2738 } rotation={ 0.000 0 0 } } }
+type={       
+type="frame_bottom_left_entity" use_animation=noalways_visible=yes       
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 0 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 1024 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 512 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 4096 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 3584 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 4608 18 693 } rotation={ 0.000 0 0 } } }
+type={       
+type="frame_bottom_right_entity" use_animation=noalways_visible=yes       
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 1536 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 2048 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 2560 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 3072 18 693 } rotation={ 0.000 0 0 } }
+object={ name="frame_top_left_entity" hidden_on_start=no position={ 5120 18 693 } rotation={ 0.000 0 0 } } }
+type={       
+type="frame_top_center_anbennar_entity" use_animation=noalways_visible=yes       
+object={ name="frame_top_left_entity05" hidden_on_start=no position={ 1948 18 2738 } rotation={ 0.000 0 0 } } }
+type={       
+type="nammi_angkor_wat_entity" use_animation=no scale=0.570000 time_duration=300.000000       
+object={ name="angkor_wat_arawkelin" hidden_on_start=no position={ 4307 0.15 1609 } rotation={ 0.000 -103 0 } }
+object={ name="angkor_wat_amldihr_1" hidden_on_start=no position={ 3320 0 2405 } rotation={ 0.000 0 0 } }
+object={ name="angkor_wat_amldihr_2" hidden_on_start=no position={ 3322 -0.5 2405 } rotation={ 0.000 0 0 } }
+object={ name="angkor_wat_amldihr_3" hidden_on_start=no position={ 3318 -0.5 2405 } rotation={ 0.000 0 0 } } }
+type={       
+type="nammi_cologne_cathedral_entity" use_animation=no time_duration=300.000000       
+object={ name="bosancovac_clock_tower" hidden_on_start=yes position={ 1173 0.1 2277.8 } rotation={ 0.000 -90 0 } } }
+type={       
+type="nammi_kremlin_entity" use_animation=no scale=0.520000 time_duration=300.000000       
+object={ name="kremlin_stanyrhrada" hidden_on_start=no position={ 1166 0 2166 } rotation={ 0.000 0 0 } } }
+type={       
+type="nammi_mount_fuji_entity" use_animation=no scale=0.900000 time_duration=300.000000       
+object={ name="trialmount" hidden_on_start=no position={ 3107 -1.1 2379 } rotation={ 0.000 -110 0 } } }
+type={       
+type="nammi_notre_dame_cathedral_entity" use_animation=no scale=0.580000 time_duration=300.000000       
+object={ name="notre_dame_anbenncost" hidden_on_start=no position={ 2807 0.2 2228 } rotation={ 0.000 20 0 } } }
+type={       
+type="nammi_old_faithful_geyser_entity" use_animation=no scale=0.150000 time_duration=300.000000       
+object={ name="old_faithful_ladjatrevo" hidden_on_start=no position={ 1082.5 0.01 2322 } rotation={ 0.000 -60 0 } } }
+type={       
+type="nammi_stpeters_cathedral_entity" use_animation=no scale=0.500000 time_duration=300.000000       
+object={ name="stpeters_anbenncost" hidden_on_start=yes position={ 2811 0.26 2228 } rotation={ 0.000 70 0 } } }
+type={       
+type="nammi_tower_of_london_entity" use_animation=no scale=0.300000 time_duration=300.000000       
+object={ name="redfort_citadel" hidden_on_start=yes position={ 2730 0.2 2218 } rotation={ 0.000 13 0 } }
+object={ name="daromsfort_citadel" hidden_on_start=yes position={ 2634 0.2 2201 } rotation={ 0.000 13 0 } }
+object={ name="escandar" hidden_on_start=no position={ 2929.2 0.2 2150 } rotation={ 0.000 13 0 } }
+object={ name="bal_ouord" hidden_on_start=yes position={ 3110 0.2 2135 } rotation={ 0.000 13 0 } }
+object={ name="gelkalis_citadel" hidden_on_start=yes position={ 3379 0.5 2062 } rotation={ 0.000 13 0 } }
+object={ name="sorrowgate_citadel" hidden_on_start=yes position={ 3067 0.2 1887 } rotation={ 0.000 13 0 } }
+object={ name="azka_sur_citadel" hidden_on_start=yes position={ 3602 0.2 1964 } rotation={ 0.000 13 0 } }
+object={ name="anzabad_citadel" hidden_on_start=yes position={ 3297 0.2 1961 } rotation={ 0.000 13 0 } }
+object={ name="aelcandar" hidden_on_start=no position={ 2744 0.2 2305 } rotation={ 0.000 13 0 } }
+object={ name="foddimodd_citadel" hidden_on_start=yes position={ 2696 0.2 2395 } rotation={ 0.000 13 0 } }
+object={ name="damenath_citadel" hidden_on_start=yes position={ 2813 0.2 2237.5 } rotation={ 0.000 13 0 } }
+object={ name="calascandar" hidden_on_start=no position={ 2900 0.2 2299 } rotation={ 0.000 13 0 } }
+object={ name="bal_mire" hidden_on_start=yes position={ 2985 0.2 2403 } rotation={ 0.000 13 0 } }
+object={ name="bal_vroren" hidden_on_start=yes position={ 3079 0.2 2484 } rotation={ 0.000 13 0 } }
+object={ name="castanor_north_citadel" hidden_on_start=yes position={ 3101 0.2 2371 } rotation={ 0.000 0 0 } }
+object={ name="gerudia_citadel" hidden_on_start=yes position={ 2842 0.2 2591 } rotation={ 0.000 13 0 } } }
+type={       
+type="nammi2_chichen_itza_entity" use_animation=no scale=0.500000 time_duration=300.000000       
+object={ name="unspecified_precursor_ruins" hidden_on_start=no position={ 1537 -0.05 1759 } rotation={ 0.000 -103 0 } }
+object={ name="grozumdihr_right" hidden_on_start=no position={ 4148.5 -1.2 2133.5 } rotation={ 0.000 0 0 } }
+object={ name="grozumdihr_middle" hidden_on_start=no position={ 4146.5 -0.9 2133.5 } rotation={ 0.000 0 0 } }
+object={ name="grozumdihr_left" hidden_on_start=no position={ 4144.5 -1.2 2133.5 } rotation={ 0.000 0 0 } }
+object={ name="ruins_of_dalaire" hidden_on_start=no position={ 1411 -0.05 2310 } rotation={ 0.000 -103 0 } } }
+type={       
+type="nammi2_hagia_sophia_entity" use_animation=no scale=0.260000 time_duration=300.000000       
+object={ name="hagia_sophia_aqatbar" hidden_on_start=no position={ 3206 0.15 2077 } rotation={ 0.000 -30 0 } } }
+type={       
+type="nammi2_hagia_sophia_minarets_entity" use_animation=no scale=0.260000 time_duration=300.000000       
+object={ name="hagia_sophia_aqatbar_minarets" hidden_on_start=yes position={ 3206 0.15 2077 } rotation={ 0.000 -30 0 } } }
+type={       
+type="nammi2_machu_picchu_entity" use_animation=no scale=0.180000 time_duration=300.000000       
+object={ name="charkuchin_city_1" hidden_on_start=no position={ 4729 -0.2 1310 } rotation={ 0.000 -40 0 } }
+object={ name="charkuchin_city_2" hidden_on_start=no position={ 4859 -0.2 1398 } rotation={ 0.000 45 0 } }
+object={ name="charkuchin_city_3" hidden_on_start=no position={ 4894 -0.2 1436 } rotation={ 0.000 135 0 } }
+object={ name="charkuchin_city_4" hidden_on_start=no position={ 4868 -0.2 1487 } rotation={ 0.000 -25 0 } }
+object={ name="charkuchin_city_5" hidden_on_start=no position={ 4761 -0.2 1509 } rotation={ 0.000 -125 0 } }
+object={ name="charkuchin_city_6" hidden_on_start=no position={ 5005 -0.2 1414 } rotation={ 0.000 -150 0 } }
+object={ name="charkuchin_city_7" hidden_on_start=no position={ 4925 -0.2 1354 } rotation={ 0.000 0 0 } } }
+type={       
+type="nammi2_parthenon_entity" use_animation=no scale=0.290000 time_duration=300.000000       
+object={ name="parthenon_ameion" hidden_on_start=no position={ 1389 0 809 } rotation={ 0.000 15 0 } } }
+type={       
+type="nammi2_petra_entity" use_animation=no scale=0.150000 time_duration=300.000000       
+object={ name="ekluzagnu" hidden_on_start=no position={ 3378 0 1928 } rotation={ 0.000 -30 0 } } }
+type={       
+type="nammi2_tenochtitlan_entity" use_animation=no scale=0.120000 time_duration=300.000000       
+object={ name="tenochtitlan_amldihr_1" hidden_on_start=no position={ 3320 0.3 2407 } rotation={ 0.000 0 0 } }
+object={ name="tenochtitlan_amldihr_2" hidden_on_start=no position={ 3321 -0.5 2406 } rotation={ 0.000 0 0 } }
+object={ name="tenochtitlan_amldihr_3" hidden_on_start=no position={ 3319 -0.5 2406 } rotation={ 0.000 0 0 } }
+object={ name="tenochtitlan_amldihr_4" hidden_on_start=no position={ 3322 -0.9 2403 } rotation={ 0.000 180 0 } }
+object={ name="tenochtitlan_amldihr_5" hidden_on_start=no position={ 3318 -0.9 2403 } rotation={ 0.000 180 0 } }
+object={ name="tenochtitlan_amldihr_6" hidden_on_start=no position={ 3317 -0.9 2405 } rotation={ 0.000 180 0 } }
+object={ name="tenochtitlan_amldihr_7" hidden_on_start=no position={ 3323 -0.9 2405 } rotation={ 0.000 180 0 } } }
+type={       
+type="nammi2_buddha_statues_big_entity" use_animation=no scale=0.190000 time_duration=300.000000       
+object={ name="hul-az-krakazol" hidden_on_start=no position={ 4060 -1 2009 } rotation={ 50.000 0 0 } }
+object={ name="seghdihr" hidden_on_start=no position={ 3612 -1 1989 } rotation={ 50.000 0 0 } }
+object={ name="shazstundihr" hidden_on_start=no position={ 3182 -1 2102 } rotation={ 50.000 -10 0 } }
+object={ name="orlghelovar" hidden_on_start=no position={ 3137 -1 2134 } rotation={ 50.000 -140 0 } }
+object={ name="hul-jorkad" hidden_on_start=no position={ 3366 -0.75 2170.4 } rotation={ 50.000 0 0 } }
+object={ name="grozumdihr" hidden_on_start=no position={ 3924 -1 1971 } rotation={ 0.000 25 0 } }
+object={ name="buddha_big_bazuneizar" hidden_on_start=no position={ 4146 -0.4 2174 } rotation={ 0.000 37.5 0 } }
+object={ name="verkal_dromak" hidden_on_start=no position={ 4232 -1 2082 } rotation={ 50.000 25 0 } }
+object={ name="redgate" hidden_on_start=no position={ 2736 -1 2247 } rotation={ 50.000 -7 0 } }
+object={ name="rivergate" hidden_on_start=no position={ 2755 -1 2242 } rotation={ 50.000 130 0 } }
+object={ name="khugdihr" hidden_on_start=no position={ 3134.1 -1 2408.1 } rotation={ 50.000 -35 0 } }
+object={ name="marrhold" hidden_on_start=no position={ 3258 -1 2309 } rotation={ 50.000 -90 0 } }
+object={ name="orlazam-az-dihr" hidden_on_start=no position={ 3357.8 -2.3 2420.7 } rotation={ 50.000 -90 0 } }
+object={ name="dur-vazhatun" hidden_on_start=no position={ 3418 -1 2483 } rotation={ 50.000 -180 0 } } }
+type={       
+type="nammi2_buddha_statues_small_entity" use_animation=no scale=0.120000 time_duration=300.000000       
+object={ name="buddha_small_bazuneizar" hidden_on_start=no position={ 4149.5 -0.25 2176.5 } rotation={ 0.000 15 0 } } }
+type={       
+type="nammi2_stonehenge_entity" use_animation=no scale=0.180000 time_duration=300.000000       
+object={ name="pillars_of_algrar" hidden_on_start=no position={ 2877 0.15 2668 } rotation={ 0.000 -0.8 0 } } }
+type={       
+type="nammi2_moai_entity" use_animation=no scale=0.300000 time_duration=300.000000       
+object={ name="moai_insyaa" hidden_on_start=no position={ 4913.5 -1.15 1942 } rotation={ 0.000 0 0 } } }
+type={       
+type="nammi2_forbidden_city_entity" use_animation=no scale=0.150000 time_duration=300.000000       
+object={ name="tianlou_high_temple" hidden_on_start=no position={ 4550 -0.02 1988 } rotation={ 0.000 -30 0 } }
+object={ name="forbidden_city_silent_repose" hidden_on_start=no position={ 2913 -0.02 2286 } rotation={ 0.000 30 0 } } }
+type={       
+type="nammi2_himeji_castle_entity" use_animation=no scale=0.290000 time_duration=300.000000       
+object={ name="Aksa_Sanuyego" hidden_on_start=no position={ 4246 -0.3 1590 } rotation={ 0.000 -150 0 } } }
+type={       
+type="kiel_canal" use_animation=no scale=1.200000 time_duration=300.000000always_visible=yesvisible_in_all_map_modes=yes       
+object={ name="kiel_canal_unused" hidden_on_start=yes position={ 3551 0 2663 } rotation={ 1.000 0 0.5 } } }
+type={       
+type="dam_entity" use_animation=no scale=0.500000 time_duration=600.000000always_visible=yesvisible_in_all_map_modes=yes       
+object={ name="adbrabohvi_dam" hidden_on_start=no position={ 1188.1 -1.8 2111 } rotation={ 1.000 -18 0.5 } }
+object={ name="vels_bacar_dam" hidden_on_start=no position={ 1141 -1.05 2202 } rotation={ 1.000 -155.5 0.5 } }
+object={ name="bosancovac_dam" hidden_on_start=no position={ 1165.5 -0.35 2277 } rotation={ 1.000 -111.5 0.5 } }
+object={ name="mocbarja_dam" hidden_on_start=no position={ 1092 -0.3 2308 } rotation={ 1.000 -17.5 0.5 } } }
+type={       
+type="suez_canal" use_animation=no scale=0.500000 time_duration=600.000000always_visible=yesvisible_in_all_map_modes=yes       
+object={ name="budanphre_canal" hidden_on_start=yes position={ 4204.1 -0.28 1817.5 } rotation={ 1.000 -10 0.5 } } }
+type={       
+type="panama_canal" use_animation=no time_duration=300.000000always_visible=yesvisible_in_all_map_modes=yes       
+object={ name="great_merfolk_canal" hidden_on_start=yes position={ 3843.8 1 1081.98 } rotation={ 0.000 90.5 0 } }
+object={ name="zabyostlar_canal" hidden_on_start=no position={ 3862.5 -0.2 2299 } rotation={ 0.000 15 0 } } }
+type={       
+type="aelnarDome_entity" use_animation=no scale=0.500000 time_duration=300.000000always_visible=yesvisible_in_all_map_modes=yes       
+object={ name="aelnarDome" hidden_on_start=yes position={ 1567 0 2126 } rotation={ 0.000 80 0 } } }
+type={       
+type="bd_tower_entity" use_animation=yes scale=0.250000 time_duration=300.000000always_visible=yesvisible_in_all_map_modes=yes       
+object={ name="bd_tower_1" hidden_on_start=yes position={ 1577 0 2140 } rotation={ 0.000 80 0 } }
+object={ name="eternal_pillar_1" hidden_on_start=yes position={ 3127 0.15 2203 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_3" hidden_on_start=yes position={ 3181 0.15 2207 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_4" hidden_on_start=yes position={ 3179 0.15 2163 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_6" hidden_on_start=yes position={ 3232 0.15 2216 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_7" hidden_on_start=yes position={ 3254 0.15 2183 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_8" hidden_on_start=yes position={ 3292 0.15 2191 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_9" hidden_on_start=yes position={ 3313 0.15 2172 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_2" hidden_on_start=yes position={ 3145 0.15 2234 } rotation={ 0.000 -60 0 } }
+object={ name="eternal_pillar_5" hidden_on_start=yes position={ 3239 0.15 2248 } rotation={ 0.000 -60 0 } } }
+type={       
+type="feyEnergy_entity" use_animation=yes scale=0.200000 time_duration=300.000000       
+object={ name="BD_fey_energy" hidden_on_start=yes position={ 3181 0.2 2328 } rotation={ 0.000 -60 0 } } }
+type={       
+type="feyPortal_entity" use_animation=yes scale=1.500000 time_duration=300.000000       
+object={ name="domandrod_fey_portal_object" hidden_on_start=yes position={ 629 2.5 2206 } rotation={ 0.000 -60 0 } }
+object={ name="deepwoods_fey_portal_object" hidden_on_start=yes position={ 3215 2.5 2209 } rotation={ 0.000 -60 0 } } }
+type={       
+type="white_walls_entity" use_animation=no scale=6.300000 time_duration=300.000000       
+object={ name="white_walls" hidden_on_start=no position={ 3127 -2.5 2367 } rotation={ 0.000 0 0 } } }
+type={       
+type="white_walls2_entity" use_animation=no scale=6.250000 time_duration=300.000000       
+object={ name="white_walls2" hidden_on_start=no position={ 3125 -2.6 2367 } rotation={ 0.000 0 0 } } }
+type={       
+type="white_walls_city_entity" use_animation=no scale=6.250000 time_duration=300.000000       
+object={ name="white_walls_city" hidden_on_start=no position={ 3126 -2.3 2366.5 } rotation={ 0.000 0 0 } } }
+type={       
+type="haraf_worm_entity" use_animation=yes scale=2.500000 time_duration=300.000000       
+object={ name="HarafWorm1" hidden_on_start=no position={ 886 -27 1918.5 } rotation={ 0.000 -254 0 } } }
+type={       
+type="haraf_worm_2_entity" use_animation=yes scale=3.200000 time_duration=300.000000       
+object={ name="HarafWorm1" hidden_on_start=no position={ 866 -34.7 1961.5 } rotation={ 0.000 218 0 } } }
+type={       
+type="haraf_worm_3_entity" use_animation=yes scale=2.000000 time_duration=300.000000       
+object={ name="HarafWorm1" hidden_on_start=no position={ 696 -21.5 1816.5 } rotation={ 0.000 102 0 } } }
+type={       
+type="haraf_worm_4_entity" use_animation=yes scale=3.000000 time_duration=300.000000       
+object={ name="HarafWorm1" hidden_on_start=no position={ 786 -32.5 1926.5 } rotation={ 0.000 74 0 } } }
+type={       
+type="haraf_worm_BIG_entity" use_animation=yes scale=4.500000 time_duration=300.000000       
+object={ name="BigHarafWorm1" hidden_on_start=no position={ 860 -58 2036.5 } rotation={ 0.000 -148 0 } } }
+type={       
+type="verkalGulan_entity" use_animation=no scale=0.400000 time_duration=300.000000       
+object={ name="verkalGulan" hidden_on_start=no position={ 3719 -0.9 2031.5 } rotation={ 0.000 -89 0 } } }
+type={       
+type="ED_Temple_entity" use_animation=no scale=0.130000 time_duration=300.000000       
+object={ name="EDTemple" hidden_on_start=no position={ 3472.5 -0.57 1974 } rotation={ 0.000 41 0 } } }
+type={       
+type="balhyl_entity" use_animation=no time_duration=300.000000       
+object={ name="balhyl" hidden_on_start=no position={ 2929 0.2 2203 } rotation={ 0.000 13 0 } } }
+type={       
+type="bal_dostan_entity" use_animation=yes time_duration=300.000000       
+object={ name="bal_dostan" hidden_on_start=yes position={ 3072 -0.15 2241 } rotation={ 0.000 13 0 } } }
+type={       
+type="Feiten_Jellyfish_entity" use_animation=yes scale=0.120000 time_duration=300.000000       
+object={ name="Jellyfish_Rahen" hidden_on_start=yes position={ 4090 8 1782 } rotation={ 0.000 156 0 } }
+object={ name="Jellyfish_Cannor" hidden_on_start=yes position={ 2820 12 2224 } rotation={ 0.000 256 0 } }
+object={ name="Jellyfish1" hidden_on_start=no position={ 4544 15.5 1940 } rotation={ 0.000 131 0 } }
+object={ name="Jellyfish2" hidden_on_start=no position={ 4493 12 1870 } rotation={ 0.000 56 0 } } }
+type={       
+type="Feiten_Jellyfish2_entity" use_animation=yes scale=0.110000 time_duration=300.000000       
+object={ name="Jellyfish21" hidden_on_start=no position={ 4519 9.5 1922 } rotation={ 0.000 192 0 } }
+object={ name="Jellyfish_gone" hidden_on_start=no position={ 4515 10 1891 } rotation={ 0.000 103 0 } }
+object={ name="Jellyfish_Tianlou" hidden_on_start=yes position={ 4565 7 1978 } rotation={ 0.000 253 0 } } }
+type={       
+type="Feiten_Jellyfish_anchored_entity" use_animation=yes scale=0.100000 time_duration=300.000000       
+object={ name="Jellyfish_Stat1" hidden_on_start=no position={ 4516 2.4 1925 } rotation={ 0.000 392 0 } }
+object={ name="Jellyfish_Stat2" hidden_on_start=no position={ 4514 2.5 1926 } rotation={ 0.000 12 0 } }
+object={ name="Jellyfish_Stat3" hidden_on_start=no position={ 4518.4 2.35 1936.7 } rotation={ 0.000 902 0 } }
+object={ name="Jellyfish_Stat4" hidden_on_start=no position={ 4469.5 2.55 1861.5 } rotation={ 0.000 52 0 } }
+object={ name="Jellyfish_Stat5" hidden_on_start=no position={ 4470 2.4 1859 } rotation={ 0.000 132 0 } }
+object={ name="Jellyfish_Stat6" hidden_on_start=no position={ 4484.5 2.3 1876.5 } rotation={ 0.000 22 0 } }
+object={ name="Jellyfish_Stat7" hidden_on_start=no position={ 4512 2.5 1905 } rotation={ 0.000 132 0 } } }
+type={       
+type="Feiten_Jellyfish_line_entity" use_animation=yes scale=0.110000 time_duration=300.000000       
+object={ name="Jellyfish_line1" hidden_on_start=no position={ 4516 2.5 1925 } rotation={ 0.000 300 0 } }
+object={ name="Jellyfish_line2" hidden_on_start=no position={ 4514 2.5 1926 } rotation={ 0.000 20 0 } }
+object={ name="Jellyfish_line3" hidden_on_start=no position={ 4518.4 2.5 1936.7 } rotation={ 0.000 162 0 } }
+object={ name="Jellyfish_line4" hidden_on_start=no position={ 4469.5 2.5 1861.5 } rotation={ 0.000 340 0 } }
+object={ name="Jellyfish_line5" hidden_on_start=no position={ 4470 2.5 1859 } rotation={ 0.000 240 0 } }
+object={ name="Jellyfish_line6" hidden_on_start=no position={ 4484.5 2.3 1876.5 } rotation={ 0.000 152 0 } }
+object={ name="Jellyfish_line7" hidden_on_start=no position={ 4512 2.5 1905 } rotation={ 0.000 272 0 } } }
+type={       
+type="Feiten_Airship_entity" use_animation=yes scale=0.120000 time_duration=300.000000       
+object={ name="Airship_1" hidden_on_start=yes position={ 4520 12.4 1890 } rotation={ 0.000 51 0 } }
+object={ name="Airship_2" hidden_on_start=yes position={ 4556 11.4 1921 } rotation={ 0.000 256 0 } } }
+type={       
+type="Feiten_Airship_anchored_entity" use_animation=yes scale=0.100000 time_duration=300.000000       
+object={ name="Airship_anchored_1" hidden_on_start=yes position={ 4516 2 1928 } rotation={ 0.000 61 0 } }
+object={ name="Airship_anchored_2" hidden_on_start=yes position={ 4487.5 2 1877.2 } rotation={ 0.000 156 0 } } }
+type={       
+type="yezel_mora_tree_entity" use_animation=no scale=0.600000 time_duration=300.000000       
+object={ name="yezel_mora_tree" hidden_on_start=no position={ 3670 0 1513 } rotation={ 0.000 -60 0 } } }
+type={       
+type="AzA_Fortress_entity" use_animation=no scale=0.380000 time_duration=300.000000       
+object={ name="Azka-szel-Azka" hidden_on_start=no position={ 3087 0.7 2073.7 } rotation={ 0.000 150 0 } } }
+type={       
+type="Busilar_lion_entity" use_animation=no scale=0.210000 time_duration=300.000000       
+object={ name="Busilar_lion_1" hidden_on_start=no position={ 2945 0 2069 } rotation={ 0.000 35 0 } }
+object={ name="Busilar_lion_2" hidden_on_start=no position={ 2949 0 2070 } rotation={ 0.000 20 0 } }
+object={ name="Busilar_lion_3" hidden_on_start=no position={ 2952 0 2071.5 } rotation={ 0.000 40 0 } }
+object={ name="Busilar_lion_4" hidden_on_start=no position={ 2950 0.04 2063 } rotation={ 0.000 -150 0 } }
+object={ name="Busilar_lion_5" hidden_on_start=no position={ 2953 0.04 2065 } rotation={ 0.000 -150 0 } }
+object={ name="Busilar_lion_6" hidden_on_start=no position={ 2957 0 2066 } rotation={ 0.000 -140 0 } } }
+type={       
+type="Vertesk_Tower_entity" use_animation=yes scale=0.900000 time_duration=300.000000       
+object={ name="Vertesk_Tower" hidden_on_start=no position={ 2848.7 -0.2 2357 } rotation={ 0.000 240 0 } } }
+type={       
+type="Leechfather_grasp_slap2_entity" use_animation=yes scale=0.700000 time_duration=300.000000       
+object={ name="Leechslap22" hidden_on_start=no position={ 1718 -0.8 1355 } rotation={ 0.000 330 0 } }
+object={ name="Leechslap21" hidden_on_start=no position={ 1749 -0.8 1375 } rotation={ 0.000 60 0 } } }
+type={       
+type="Leechfather_grasp_slither_entity" use_animation=yes scale=0.700000 time_duration=300.000000       
+object={ name="Leechslither1" hidden_on_start=no position={ 1736.7 -0.8 1376 } rotation={ 0.000 100 0 } }
+object={ name="Leechslither2" hidden_on_start=no position={ 1722.7 -0.8 1385 } rotation={ 0.000 290 0 } } }
+type={       
+type="Leechfather_grasp_slither2_entity" use_animation=yes scale=0.700000 time_duration=300.000000       
+object={ name="Leechslither21" hidden_on_start=no position={ 1749.7 -0.8 1366 } rotation={ 0.000 335 0 } }
+object={ name="Leechslither22" hidden_on_start=no position={ 1762.7 -0.7 1400 } rotation={ 0.000 245 0 } } }
+type={       
+type="Leechfather_grasp_slap_entity" use_animation=yes scale=0.700000 time_duration=300.000000       
+object={ name="Leechslap22" hidden_on_start=no position={ 1750 -0.8 1351 } rotation={ 0.000 120 0 } } }
+type={       
+type="Leechfather_grasp_slither3_entity" use_animation=yes scale=0.700000 time_duration=300.000000       
+object={ name="Leechslither31" hidden_on_start=no position={ 1728.7 -0.8 1366 } rotation={ 0.000 165 0 } }
+object={ name="Leechslither32" hidden_on_start=no position={ 1760.2 -0.7 1371 } rotation={ 0.000 165 0 } } }
+type={       
+type="bimlau_necro_entity" use_animation=yes scale=0.080000 time_duration=300.000000       
+object={ name="bimlau_necropolis" hidden_on_start=no position={ 4141.5 1 1811 } rotation={ 0.000 28 0 } } }
+type={       
+type="nomsyulhan_gateway_entity" use_animation=yes time_duration=300.000000       
+object={ name="nomsyulhan_gateway" hidden_on_start=no position={ 4075.5 0.37 2182.5 } rotation={ 0.000 270 0 } } }
+type={       
+type="LF_Spire_F_entity" use_animation=no scale=0.180000 time_duration=300.000000       
+object={ name="LF_Spire_F_1" hidden_on_start=no position={ 3092.7 -10 1470 } rotation={ 0.000 137 0 } }
+object={ name="LF_Spire_F_2" hidden_on_start=no position={ 3633.7 0.69 1445 } rotation={ 0.000 836 0 } }
+object={ name="LF_Spire_F_3" hidden_on_start=no position={ 3766.7 0.2 1290 } rotation={ 0.000 645 0 } }
+object={ name="LF_Spire_F_4" hidden_on_start=no position={ 3696 -7 1206 } rotation={ 0.000 9852 0 } }
+object={ name="LF_Spire_F_5" hidden_on_start=no position={ 3514.8 0.3 1454 } rotation={ 0.000 953 0 } }
+object={ name="LF_Spire_F_6" hidden_on_start=yes position={ 3627 -0.4 1511 } rotation={ 0.000 50 0 } }
+object={ name="LF_Spire_stolen" hidden_on_start=yes position={ 2851 0.1 2118.5 } rotation={ 0.000 853 0 } } }
+type={       
+type="LF_Spire_B_entity" use_animation=no scale=0.180000 time_duration=300.000000       
+object={ name="LF_Spire_B_1" hidden_on_start=no position={ 3428.7 -0.7 1320 } rotation={ 0.000 627 0 } }
+object={ name="LF_Spire_B_2" hidden_on_start=no position={ 3378.7 -0.4 1422 } rotation={ 0.000 853 0 } }
+object={ name="LF_Spire_B_3" hidden_on_start=no position={ 492 -0.4 1203 } rotation={ 0.000 10 0 } } }
+type={       
+type="Ananoma_entity" use_animation=no scale=0.350000 time_duration=300.000000       
+object={ name="Ananoma_1" hidden_on_start=no position={ 3092.7 -0.7 1470 } rotation={ 0.000 30 0 } }
+object={ name="Ananoma_2" hidden_on_start=no position={ 3164.7 -0.4 1560 } rotation={ 0.000 323 0 } }
+object={ name="Ananoma_3" hidden_on_start=no position={ 3005.7 -0.4 1485.4 } rotation={ 0.000 323 0 } }
+object={ name="Ananoma_4" hidden_on_start=no position={ 3228.7 -0.4 1440 } rotation={ 0.000 65 0 } }
+object={ name="Ananoma_5" hidden_on_start=no position={ 3304.7 -0.4 1422 } rotation={ 0.000 339 0 } } }
+type={       
+type="Ananoma_inner_entity" use_animation=no scale=0.350000 time_duration=300.000000       
+object={ name="Ananoma_2" hidden_on_start=no position={ 3164.7 -0.4 1560 } rotation={ 0.000 323 0 } }
+object={ name="Ananoma_3" hidden_on_start=no position={ 3005.7 -0.4 1485.4 } rotation={ 0.000 323 0 } }
+object={ name="Ananoma_4" hidden_on_start=no position={ 3228.7 -0.4 1440 } rotation={ 0.000 65 0 } }
+object={ name="Ananoma_5" hidden_on_start=no position={ 3304.7 -0.4 1422 } rotation={ 0.000 339 0 } } }
+type={       
+type="Gate_Of_Hell_entity" use_animation=yes scale=0.900000 time_duration=300.000000       
+object={ name="zokka_portal_sprigi_twani" hidden_on_start=yes position={ 3665.7 0.25 1528 } rotation={ 0.000 335 0 } }
+object={ name="zokka_portal_pawprint" hidden_on_start=yes position={ 2683.7 -0.1 1752 } rotation={ 0.000 33 0 } }
+object={ name="zokka_portal_xhazobains_end" hidden_on_start=yes position={ 3059.7 0.15 2225 } rotation={ 0.000 504 0 } }
+object={ name="zokka_portal_sapriyasa" hidden_on_start=yes position={ 3987.9 0.4 1912 } rotation={ 0.000 340 0 } } }
+type={       
+type="skywhale_entity" use_animation=yes scale=0.300 time_duration=300.000000       
+object={ name="skywhale" hidden_on_start=no position={ 4868.7 10 1957 } rotation={ 0.000 0 0 } }
+object={ name="skywhale3" hidden_on_start=no position={ 4982 10 1519 } rotation={ 0.000 60 0 } } }
+type={       
+type="skywhale2_entity" use_animation=yes scale=0.300 time_duration=300.000000       
+object={ name="skywhale2" hidden_on_start=no position={ 5278 13 1493 } rotation={ 0.000 60 0 } }
+object={ name="skywhale4" hidden_on_start=no position={ 4649 13 1478 } rotation={ 0.000 60 0 } } }
+type={       
+type="Stormwall_nodes1_entity" use_animation=no scale=2.740000 time_duration=300.000000       
+object={ name="Stormwall_nodes1_TL" hidden_on_start=no position={ 4553.6 2 1695.5 } rotation={ 0.000 -16 0 } }
+object={ name="Stormwall_nodes1_BL" hidden_on_start=no position={ 5343.5 2 1339.8 } rotation={ 0.000 164.5 0 } } }
+type={       
+type="Stormwall_nodes2_entity" use_animation=no scale=2.760000 time_duration=300.000000       
+object={ name="Stormwall_nodes2_BL" hidden_on_start=no position={ 5295 2 1228 } rotation={ 0.000 164.5 0 } }
+object={ name="Stormwall_nodes2_TL" hidden_on_start=no position={ 4603.85 2 1807.45 } rotation={ 0.000 -16.5 0 } } }
+type={       
+type="Stormwall_nodes3_entity" use_animation=no scale=2.760000 time_duration=300.000000       
+object={ name="Stormwall_nodes3_BL" hidden_on_start=no position={ 5230.4 2 1126 } rotation={ 0.000 163.5 0 } }
+object={ name="Stormwall_nodes3_TL" hidden_on_start=no position={ 4669.6 2 1910.4 } rotation={ 0.000 -16 0 } } }
+type={       
+type="Stormwall_nodes4_entity" use_animation=no scale=2.780000 time_duration=300.000000       
+object={ name="Stormwall_nodes4_BL" hidden_on_start=no position={ 5150.4 2 1035 } rotation={ 0.000 163.5 0 } }
+object={ name="Stormwall_nodes4_TL" hidden_on_start=no position={ 4750 2 2003 } rotation={ 0.000 -16 0 } } }
+type={       
+type="Stormwall_nodes5_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes5_BL" hidden_on_start=no position={ 5055.7 2 960 } rotation={ 0.000 163.5 0 } }
+object={ name="Stormwall_nodes5_TL" hidden_on_start=no position={ 4845.05 2 2078.9 } rotation={ 0.000 -16.5 0 } } }
+type={       
+type="Stormwall_nodes6_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes6_BL" hidden_on_start=no position={ 4946.3 2 910.7 } rotation={ 0.000 163.5 0 } }
+object={ name="Stormwall_nodes6_TL" hidden_on_start=no position={ 4954.5 2 2128.3 } rotation={ 0.000 -16.5 0 } } }
+type={       
+type="Stormwall_nodes7_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes7_BL" hidden_on_start=no position={ 4826 2 897 } rotation={ 0.000 163.5 0 } }
+object={ name="Stormwall_nodes7_TL" hidden_on_start=no position={ 5075 2 2142 } rotation={ 0.000 -16.5 0 } } }
+type={       
+type="Stormwall_nodes1R_entity" use_animation=no scale=2.740000 time_duration=300.000000       
+object={ name="Stormwall_nodes1_TR" hidden_on_start=no position={ 5376.3 2 1454.3 } rotation={ 0.000 163.5 0 } }
+object={ name="Stormwall_nodes1_BR" hidden_on_start=no position={ 4520.2 2 1581 } rotation={ 0.000 -16.5 0 } } }
+type={       
+type="Stormwall_nodes2R_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes2_TR" hidden_on_start=no position={ 5395.5 2 1574.5 } rotation={ 0.000 162.5 0 } }
+object={ name="Stormwall_nodes2_BR" hidden_on_start=no position={ 4501.23 2 1461.15 } rotation={ 0.000 -17.4 0 } } }
+type={       
+type="Stormwall_nodes3R_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes3_TR" hidden_on_start=no position={ 5398 2 1695.3 } rotation={ 0.000 162.5 0 } }
+object={ name="Stormwall_nodes3_BR" hidden_on_start=no position={ 4498.6 2 1340.4 } rotation={ 0.000 -17.8 0 } } }
+type={       
+type="Stormwall_nodes4R_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes4_BR" hidden_on_start=no position={ 4514.59 2 1220.3 } rotation={ 0.000 -16.7 0 } }
+object={ name="Stormwall_nodes4_TR" hidden_on_start=no position={ 5382 2 1815 } rotation={ 0.000 163 0 } } }
+type={       
+type="Stormwall_nodes5R_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes5_BR" hidden_on_start=no position={ 4553.05 2 1105.85 } rotation={ 0.000 -16.5 0 } }
+object={ name="Stormwall_nodes5_TR" hidden_on_start=no position={ 5344.6 2 1929.8 } rotation={ 0.000 162.8 0 } } }
+type={       
+type="Stormwall_nodes6R_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes6_BR" hidden_on_start=no position={ 4618.3 2 1005.2 } rotation={ 0.000 -16 0 } }
+object={ name="Stormwall_nodes6_TR" hidden_on_start=no position={ 5281.3 2 2031 } rotation={ 0.000 163 0 } } }
+type={       
+type="Stormwall_nodes7R_entity" use_animation=no scale=2.730000 time_duration=300.000000       
+object={ name="Stormwall_nodes7_BR" hidden_on_start=no position={ 4712.63 2 929.5 } rotation={ 0.000 -15.5 0 } }
+object={ name="Stormwall_nodes7_TR" hidden_on_start=no position={ 5188.2 2 2108.5 } rotation={ 0.000 163.5 0 } } }
