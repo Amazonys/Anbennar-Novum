@@ -2480,17 +2480,17 @@ NMacroBuildColors = {
 NFrontend = {
 	CAMERA_LOOKAT_X = 2958.0, 						-- Rotation point in main menu
 	CAMERA_LOOKAT_Y = 0.0,
-	CAMERA_LOOKAT_Z = 1519.0,
+	CAMERA_LOOKAT_Z = 2211.0,
 	CAMERA_LOOKAT_SETTINGS_X = 2958.0, 				-- Rotation point in settings
 	CAMERA_LOOKAT_SETTINGS_Y = 0.0,					-- Y is height
-	CAMERA_LOOKAT_SETTINGS_Z = 1519.0,
+	CAMERA_LOOKAT_SETTINGS_Z = 2215.0,
 	CAMERA_START_X = 2958.0,						-- Initial position in main menu
 	CAMERA_START_Y = 800,							-- Y is height
-	CAMERA_START_Z = 1400.0,
+	CAMERA_START_Z = 2092.0,
 	CAMERA_END_X = 2958.0,							-- Move to position in main menu
 	CAMERA_END_Y = 900.0,
-	CAMERA_END_Z = 1400.0,
-	CAMERA_MIN_DIST_FOR_ROTATE = 1900.0, 			-- Controlls when rotation starts. When camera is close enought it starts
+	CAMERA_END_Z = 2092.0,
+	CAMERA_MIN_DIST_FOR_ROTATE = 800.0, 			-- Controlls when rotation starts. When camera is close enought it starts
 	CAMERA_MIN_HEIGHT = 90.0,						-- Minimum camera height
 	CAMERA_MAX_HEIGHT = 3000.0,						-- Maximum camera height
 	TIME_FROZEN = 1.0,  							-- Time before initial animation starts (some deylay here so it should NOT be 0, then the animation starts before you can see it)
@@ -2507,45 +2507,45 @@ NFrontend = {
 
 	FRONTEND_POS_X = 2958.0,
 	FRONTEND_POS_Y = 900.0,
-	FRONTEND_POS_Z = 1500.0,
+	FRONTEND_POS_Z = 2192.0,
 	FRONTEND_LOOK_X = 2958.0,
 	FRONTEND_LOOK_Y = 0.0,
-	FRONTEND_LOOK_Z = 1519.0,
+	FRONTEND_LOOK_Z = 2211.0,
 
 	SETTINGS_POS_X = 2958.0,
 	SETTINGS_POS_Y = 551.0,
-	SETTINGS_POS_Z = 978.0,
+	SETTINGS_POS_Z = 1670.0,
 	SETTINGS_LOOK_X = 2998.0,
 	SETTINGS_LOOK_Y = 0.0,
-	SETTINGS_LOOK_Z = 1364.0,
+	SETTINGS_LOOK_Z = 2056.0,
 
 	MP_OPTIONS_POS_X = 2958.0,
 	MP_OPTIONS_POS_Y = 922.0,
-	MP_OPTIONS_POS_Z = 1048.0,
+	MP_OPTIONS_POS_Z = 1740.0,
 	MP_OPTIONS_LOOK_X = 2958.0,
 	MP_OPTIONS_LOOK_Y = 0.0,
-	MP_OPTIONS_LOOK_Z = 1159.0,
+	MP_OPTIONS_LOOK_Z = 1851.0,
 
 	TUTORIAL_POS_X = 2894.0,
 	TUTORIAL_POS_Y = 124.0,
-	TUTORIAL_POS_Z = 1319.0,
+	TUTORIAL_POS_Z = 2011.0,
 	TUTORIAL_LOOK_X = 2881.0,
 	TUTORIAL_LOOK_Y = 21.0,
-	TUTORIAL_LOOK_Z = 1463.0,
+	TUTORIAL_LOOK_Z = 2155.0,
 
 	CONTENT_POS_X = 2958.0,
 	CONTENT_POS_Y = 922.0,
-	CONTENT_POS_Z = 1308.0,
+	CONTENT_POS_Z = 2000.0,
 	CONTENT_LOOK_X = 2958.0,
 	CONTENT_LOOK_Y = 0.0,
-	CONTENT_LOOK_Z = 1519.0,
+	CONTENT_LOOK_Z = 2211.0,
 
 	CREDITS_POS_X = 3077.0,
 	CREDITS_POS_Y = 231.0,
-	CREDITS_POS_Z = 1508.0,
+	CREDITS_POS_Z = 2200.0,
 	CREDITS_LOOK_X = 3080.0,
 	CREDITS_LOOK_Y = 19.0,
-	CREDITS_LOOK_Z = 1720.0,
+	CREDITS_LOOK_Z = 2412.0,
 },
 
 NReligion = {

@@ -1863,7 +1863,7 @@ terrain = {
 
 tree = {
 	forest				= { terrain = forest 							color = { 	3 4 6 7 19 20 34 35 36	} }
-	woods				= { terrain = woods 							color = { 	2 5 8 18				} }
+	woods				= { terrain = woods 							color = { 	2 5 8 18 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71				} }
 	jungle				= { terrain = jungle 							color = { 	13 14 15				} }
 	palms				= { terrain = desert 							color = { 	12						} }
 	savana				= { terrain = grasslands 						color = { 	27 28 29 30				} }
