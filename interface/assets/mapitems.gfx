@@ -273,17 +273,17 @@ objectTypes = {
 	#Ancient Forest
 	pdxmesh = {
 		name = "mapobject_8"
-		file = "gfx/models/Mapitems/Trees/ancient_forest_01.mesh"
+		file = "gfx/models/Mapitems/Trees/ancient_jungle_01.mesh"
 		scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_9"
-		file = "gfx/models/Mapitems/Trees/ancient_forest_02.mesh"
+		file = "gfx/models/Mapitems/Trees/ancient_jungle_02.mesh"
 		scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_10"
-		file = "gfx/models/Mapitems/Trees/ancient_forest_03.mesh"
+		file = "gfx/models/Mapitems/Trees/ancient_jungle_03.mesh"
 		scale = 1.25
 	}
 	#11 Empty
@@ -415,17 +415,17 @@ objectTypes = {
 	pdxmesh = {
 		name = "mapobject_37"
 		file = "gfx/models/Mapitems/Trees/soleforest_01.mesh"	
-		scale = 2
+		scale = 1.5
 	}
 	pdxmesh = {
 		name = "mapobject_38"
 		file = "gfx/models/Mapitems/Trees/soleforest_02.mesh"
-		scale = 2
+		scale = 1.5
 	}
 	pdxmesh = {
 		name = "mapobject_39"
 		file = "gfx/models/Mapitems/Trees/soleforest_03.mesh"	
-		scale = 2
+		scale = 1.5
 	}
 	
 	pdxmesh = {
@@ -619,17 +619,17 @@ objectTypes = {
 	pdxmesh = {
 		name = "mapobject_75"
 		file = "gfx/models/Mapitems/Trees/bloodgroves_01.mesh"	
-		scale = 1.25
+		scale = 1
 	}
 	pdxmesh = {
 		name = "mapobject_76"
 		file = "gfx/models/Mapitems/Trees/bloodgroves_02.mesh"	
-		scale = 1.25
+		scale = 1
 	}
 	pdxmesh = {
 		name = "mapobject_77"
 		file = "gfx/models/Mapitems/Trees/bloodgroves_03.mesh"	
-		scale = 1.25
+		scale = 1
 	}
 	#Cherry Blossom
 	pdxmesh = {
@@ -643,6 +643,45 @@ objectTypes = {
 	pdxmesh = {
 		name = "mapobject_80"
 		file = "gfx/models/Mapitems/Trees/cherryblossom_03.mesh"	
+	}
+	#Ancient Woods
+	pdxmesh = {
+		name = "mapobject_81"
+		file = "gfx/models/Mapitems/Trees/ancient_woods_01.mesh"	
+	}
+	pdxmesh = {
+		name = "mapobject_82"
+		file = "gfx/models/Mapitems/Trees/ancient_woods_02.mesh"
+	}
+	pdxmesh = {
+		name = "mapobject_83"
+		file = "gfx/models/Mapitems/Trees/ancient_woods_03.mesh"	
+	}
+	#Ancient Redwood
+	pdxmesh = {
+		name = "mapobject_84"
+		file = "gfx/models/Mapitems/Trees/ancient_redwood_01.mesh"	
+	}
+	pdxmesh = {
+		name = "mapobject_85"
+		file = "gfx/models/Mapitems/Trees/ancient_redwood_02.mesh"
+	}
+	pdxmesh = {
+		name = "mapobject_86"
+		file = "gfx/models/Mapitems/Trees/ancient_redwood_03.mesh"	
+	}
+	#Ancient Forest
+	pdxmesh = {
+		name = "mapobject_87"
+		file = "gfx/models/Mapitems/Trees/ancient_forest_01.mesh"	
+	}
+	pdxmesh = {
+		name = "mapobject_88"
+		file = "gfx/models/Mapitems/Trees/ancient_forest_02.mesh"
+	}
+	pdxmesh = {
+		name = "mapobject_89"
+		file = "gfx/models/Mapitems/Trees/ancient_forest_03.mesh"	
 	}
 	#pdxmesh = {
 	#	name = "mapobject_72"
