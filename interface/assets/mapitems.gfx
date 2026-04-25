@@ -494,17 +494,17 @@ objectTypes = {
 	pdxmesh = {
 		name = "mapobject_51"
 		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
-		#scale = 3
+		scale = 2
 	}
 	pdxmesh = {
 		name = "mapobject_52"
 		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
-		#scale = 3
+		scale = 2
 	}
 	pdxmesh = {
 		name = "mapobject_53"
 		file = "gfx/models/Mapitems/Trees/mangrove_01.mesh"	
-		#scale = 3
+		scale = 2
 	}	
 	#Redwood
 	pdxmesh = {
