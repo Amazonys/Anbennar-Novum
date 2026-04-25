@@ -378,7 +378,7 @@ objectTypes = {
 	pdxmesh = {
 		name = "mapobject_30"
 		file = "gfx/models/Mapitems/Trees/fynbos.mesh"	
-		scale = 0.75
+		scale = 0.5
 	}
 	#pdxmesh = {
 	#	name = "mapobject_30"
@@ -388,15 +388,18 @@ objectTypes = {
 	#Shadow Swamp
 	pdxmesh = {
 		name = "mapobject_31"
-		file = "gfx/models/Mapitems/Trees/gray_tropical_01.mesh"	
+		file = "gfx/models/Mapitems/Trees/shadow_01.mesh"	
+		scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_32"
-		file = "gfx/models/Mapitems/Trees/gray_tropical_02.mesh"	
+		file = "gfx/models/Mapitems/Trees/shadow_02.mesh"		
+		scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_33"
-		file = "gfx/models/Mapitems/Trees/gray_tropical_03.mesh"	
+		file = "gfx/models/Mapitems/Trees/shadow_02.mesh"		
+		scale = 1.25
 	}
 	pdxmesh = {
 		name = "mapobject_34"
